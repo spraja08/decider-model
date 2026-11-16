@@ -32,6 +32,25 @@ blocks, layer norm) but makes two deliberate changes:
    Blocked entries become `-inf` just before the softmax, so an option never leaks into
    a sibling option while the model forms its decision.
 
+   The difference is easiest to see side by side, for the prompt
+   `Q:prompt|O:a;O:b;O:c;O:d;A` (black = a read is allowed):
+
+   <table>
+     <tr>
+       <th>Standard transformer (plain causal)</th>
+       <th>Decider (structured / additive)</th>
+     </tr>
+     <tr>
+       <td><img src="assets/attention_mask_visual.png" alt="Standard causal attention mask: a full lower triangle" width="100%"></td>
+       <td><img src="assets/additive_mask_visual.png" alt="Decider structured attention mask: lower triangle with the cross-option reads removed" width="100%"></td>
+     </tr>
+   </table>
+
+   The standard mask is a solid lower triangle: every position reads everything before
+   it. The decider's mask carves white gaps out of that triangle so the four option
+   branches cannot read one another, while the question stays shared and the final `A`
+   still reads all earlier real characters.
+
 2. **Pointer head instead of the LM head.**
    Rather than projecting the hidden state to vocabulary logits, the `PointerHead`
    compares the decision state against the four option-terminal hidden states and emits
