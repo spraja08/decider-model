@@ -58,6 +58,27 @@ blocks, layer norm) but makes two deliberate changes:
    logits, so the model learns to *point* at the right answer instead of generating
    text.
 
+   Each diagram below reads top to bottom: the **forward pass** ends in a probability
+   distribution and a scalar cross-entropy loss `−ln P(correct)`; the **backward pass**
+   shows the gradient `∂L/∂logits = P − target` (green = the correct class, pulled up;
+   red = wrong classes, pushed down) and how it reshapes the last-layer hidden states.
+
+   <table>
+     <tr>
+       <th>Standard LM head (predict the next character)</th>
+       <th>Pointer head (pick the correct option)</th>
+     </tr>
+     <tr>
+       <td><img src="assets/lm_head_visual.png" alt="LM head: forward pass to a probability over the vocabulary, and backprop pushing the hidden state toward the correct character's weight row" width="100%"></td>
+       <td><img src="assets/pointer_head_visual.png" alt="Pointer head: forward pass to a probability over four options, and backprop pulling the correct option ending and the decision state together" width="100%"></td>
+     </tr>
+   </table>
+
+   The LM head spends one projection over the whole vocabulary and is trained to
+   generate; the pointer head compares the decision state with just the four option
+   endings and is trained to decide. In both, the error signal `P − target` is what
+   shapes the final-layer representations.
+
 ## The task and data
 
 Each record is a question with four candidate answers, drawn from three domains:
