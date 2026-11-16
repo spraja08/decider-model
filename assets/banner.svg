@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="MiniJev decider model banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- subtle attention-mask grid motif -->
+  <g opacity="0.14" fill="#38bdf8">
+    <!-- lower-triangular (causal) dots -->
+    <g>
+      <!-- generated-looking triangular grid -->
+      <rect x="820" y="40"  width="18" height="18" rx="3"/>
+      <rect x="820" y="68"  width="18" height="18" rx="3"/><rect x="848" y="68"  width="18" height="18" rx="3"/>
+      <rect x="820" y="96"  width="18" height="18" rx="3"/><rect x="848" y="96"  width="18" height="18" rx="3"/><rect x="876" y="96"  width="18" height="18" rx="3"/>
+      <rect x="820" y="124" width="18" height="18" rx="3"/><rect x="848" y="124" width="18" height="18" rx="3"/><rect x="876" y="124" width="18" height="18" rx="3"/><rect x="904" y="124" width="18" height="18" rx="3"/>
+      <rect x="820" y="152" width="18" height="18" rx="3"/><rect x="848" y="152" width="18" height="18" rx="3"/><rect x="876" y="152" width="18" height="18" rx="3"/><rect x="904" y="152" width="18" height="18" rx="3"/><rect x="932" y="152" width="18" height="18" rx="3"/>
+      <rect x="820" y="180" width="18" height="18" rx="3"/><rect x="848" y="180" width="18" height="18" rx="3"/><rect x="876" y="180" width="18" height="18" rx="3"/><rect x="904" y="180" width="18" height="18" rx="3"/><rect x="932" y="180" width="18" height="18" rx="3"/><rect x="960" y="180" width="18" height="18" rx="3"/>
+      <rect x="820" y="208" width="18" height="18" rx="3"/><rect x="848" y="208" width="18" height="18" rx="3"/><rect x="876" y="208" width="18" height="18" rx="3"/><rect x="904" y="208" width="18" height="18" rx="3"/><rect x="932" y="208" width="18" height="18" rx="3"/><rect x="960" y="208" width="18" height="18" rx="3"/><rect x="988" y="208" width="18" height="18" rx="3"/>
+      <rect x="820" y="236" width="18" height="18" rx="3"/><rect x="848" y="236" width="18" height="18" rx="3"/><rect x="876" y="236" width="18" height="18" rx="3"/><rect x="904" y="236" width="18" height="18" rx="3"/><rect x="932" y="236" width="18" height="18" rx="3"/><rect x="960" y="236" width="18" height="18" rx="3"/><rect x="988" y="236" width="18" height="18" rx="3"/><rect x="1016" y="236" width="18" height="18" rx="3"/>
+    </g>
+  </g>
+
+  <!-- pointer-head motif: decision state pointing at one of four options -->
+  <g transform="translate(1040,70)">
+    <text x="0" y="-14" font-family="'Courier New',monospace" font-size="15" fill="#94a3b8">A</text>
+    <circle cx="4" cy="8" r="9" fill="url(#accent)" filter="url(#soft)"/>
+    <g font-family="'Courier New',monospace" font-size="14" fill="#64748b">
+      <rect x="60" y="0"   width="80" height="22" rx="5" fill="#1e293b" stroke="#334155"/>
+      <rect x="60" y="34"  width="80" height="22" rx="5" fill="#0ea5e9" stroke="#38bdf8"/>
+      <rect x="60" y="68"  width="80" height="22" rx="5" fill="#1e293b" stroke="#334155"/>
+      <rect x="60" y="102" width="80" height="22" rx="5" fill="#1e293b" stroke="#334155"/>
+      <text x="70" y="15"  fill="#64748b">O:0</text>
+      <text x="70" y="49"  fill="#e0f2fe">O:1</text>
+      <text x="70" y="83"  fill="#64748b">O:2</text>
+      <text x="70" y="117" fill="#64748b">O:3</text>
+    </g>
+    <path d="M13,10 C35,10 40,45 58,45" stroke="url(#accent)" stroke-width="2.5" fill="none" filter="url(#soft)"/>
+    <path d="M13,10 C30,10 38,11 58,11"  stroke="#334155" stroke-width="1.5" fill="none"/>
+    <path d="M13,10 C30,10 40,79 58,79"  stroke="#334155" stroke-width="1.5" fill="none"/>
+    <path d="M13,10 C28,10 40,113 58,113" stroke="#334155" stroke-width="1.5" fill="none"/>
+  </g>
+
+  <!-- title block -->
+  <g transform="translate(70,0)">
+    <text x="0" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="78" font-weight="700" fill="#f8fafc">MiniJev</text>
+    <rect x="4" y="150" width="150" height="6" rx="3" fill="url(#accent)"/>
+    <text x="0" y="196" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" fill="#cbd5e1">a small character-level decider</text>
+    <text x="2" y="238" font-family="'Courier New',monospace" font-size="17" fill="#7dd3fc">structured attention mask  ·  pointer head</text>
+    <text x="2" y="266" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" fill="#64748b">a from-scratch transformer, repurposed from generating text to picking an answer</text>
+  </g>
+</svg>

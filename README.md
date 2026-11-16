@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="MiniJev — a small character-level decider" width="100%">
+</p>
+
 # decider-model (MiniJev)
 
 A small, character-level **decision model** built for learning purposes. It extends my
