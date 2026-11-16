@@ -1,0 +1,288 @@
+Q:a new question about portugal and capital|O:lisbon;O:madrid;O:vienna;O:rome;A	0	geography	geography_fact_ood_01
+Q:what answer is associated with portugal and capital|O:berlin;O:lisbon;O:paris;O:rome;A	1	geography	geography_fact_ood_01
+Q:choose an answer for portugal and capital|O:paris;O:rome;O:lisbon;O:london;A	2	geography	geography_fact_ood_01
+Q:which answer fits portugal and capital|O:berlin;O:rome;O:london;O:lisbon;A	3	geography	geography_fact_ood_01
+Q:a new question about portugal and capital|O:lisbon;O:vienna;O:madrid;O:rome;A	0	geography	geography_fact_ood_01
+Q:what answer is associated with portugal and capital|O:rome;O:lisbon;O:london;O:vienna;A	1	geography	geography_fact_ood_01
+Q:choose an answer for portugal and capital|O:madrid;O:berlin;O:lisbon;O:paris;A	2	geography	geography_fact_ood_01
+Q:which answer fits portugal and capital|O:madrid;O:rome;O:berlin;O:lisbon;A	3	geography	geography_fact_ood_01
+Q:what answer is associated with spain and capital|O:madrid;O:berlin;O:london;O:rome;A	0	geography	geography_fact_ood_02
+Q:choose an answer for spain and capital|O:london;O:madrid;O:rome;O:lisbon;A	1	geography	geography_fact_ood_02
+Q:which answer fits spain and capital|O:paris;O:lisbon;O:madrid;O:rome;A	2	geography	geography_fact_ood_02
+Q:a new question about spain and capital|O:paris;O:rome;O:berlin;O:madrid;A	3	geography	geography_fact_ood_02
+Q:what answer is associated with spain and capital|O:madrid;O:rome;O:paris;O:london;A	0	geography	geography_fact_ood_02
+Q:choose an answer for spain and capital|O:vienna;O:madrid;O:london;O:rome;A	1	geography	geography_fact_ood_02
+Q:which answer fits spain and capital|O:london;O:paris;O:madrid;O:vienna;A	2	geography	geography_fact_ood_02
+Q:a new question about spain and capital|O:lisbon;O:berlin;O:rome;O:madrid;A	3	geography	geography_fact_ood_02
+Q:choose an answer for norway and capital|O:oslo;O:madrid;O:berlin;O:london;A	0	geography	geography_fact_ood_03
+Q:which answer fits norway and capital|O:rome;O:oslo;O:madrid;O:paris;A	1	geography	geography_fact_ood_03
+Q:a new question about norway and capital|O:paris;O:berlin;O:oslo;O:london;A	2	geography	geography_fact_ood_03
+Q:what answer is associated with norway and capital|O:berlin;O:lisbon;O:madrid;O:oslo;A	3	geography	geography_fact_ood_03
+Q:choose an answer for norway and capital|O:oslo;O:paris;O:madrid;O:london;A	0	geography	geography_fact_ood_03
+Q:which answer fits norway and capital|O:london;O:oslo;O:paris;O:rome;A	1	geography	geography_fact_ood_03
+Q:a new question about norway and capital|O:madrid;O:london;O:oslo;O:rome;A	2	geography	geography_fact_ood_03
+Q:what answer is associated with norway and capital|O:madrid;O:rome;O:london;O:oslo;A	3	geography	geography_fact_ood_03
+Q:which answer fits sweden and capital|O:stockholm;O:london;O:paris;O:rome;A	0	geography	geography_fact_ood_04
+Q:a new question about sweden and capital|O:lisbon;O:stockholm;O:paris;O:madrid;A	1	geography	geography_fact_ood_04
+Q:what answer is associated with sweden and capital|O:rome;O:madrid;O:stockholm;O:london;A	2	geography	geography_fact_ood_04
+Q:choose an answer for sweden and capital|O:paris;O:rome;O:berlin;O:stockholm;A	3	geography	geography_fact_ood_04
+Q:which answer fits sweden and capital|O:stockholm;O:paris;O:rome;O:london;A	0	geography	geography_fact_ood_04
+Q:a new question about sweden and capital|O:london;O:stockholm;O:rome;O:paris;A	1	geography	geography_fact_ood_04
+Q:what answer is associated with sweden and capital|O:london;O:madrid;O:stockholm;O:berlin;A	2	geography	geography_fact_ood_04
+Q:choose an answer for sweden and capital|O:london;O:berlin;O:lisbon;O:stockholm;A	3	geography	geography_fact_ood_04
+Q:a new question about turkey and capital|O:ankara;O:berlin;O:london;O:paris;A	0	geography	geography_fact_ood_05
+Q:what answer is associated with turkey and capital|O:madrid;O:ankara;O:paris;O:lisbon;A	1	geography	geography_fact_ood_05
+Q:choose an answer for turkey and capital|O:madrid;O:london;O:ankara;O:lisbon;A	2	geography	geography_fact_ood_05
+Q:which answer fits turkey and capital|O:paris;O:london;O:rome;O:ankara;A	3	geography	geography_fact_ood_05
+Q:a new question about turkey and capital|O:ankara;O:lisbon;O:rome;O:madrid;A	0	geography	geography_fact_ood_05
+Q:what answer is associated with turkey and capital|O:paris;O:ankara;O:berlin;O:london;A	1	geography	geography_fact_ood_05
+Q:choose an answer for turkey and capital|O:berlin;O:madrid;O:ankara;O:rome;A	2	geography	geography_fact_ood_05
+Q:which answer fits turkey and capital|O:berlin;O:madrid;O:lisbon;O:ankara;A	3	geography	geography_fact_ood_05
+Q:what answer is associated with ukraine and capital|O:kyiv;O:berlin;O:london;O:paris;A	0	geography	geography_fact_ood_06
+Q:choose an answer for ukraine and capital|O:london;O:kyiv;O:berlin;O:paris;A	1	geography	geography_fact_ood_06
+Q:which answer fits ukraine and capital|O:berlin;O:london;O:kyiv;O:paris;A	2	geography	geography_fact_ood_06
+Q:a new question about ukraine and capital|O:berlin;O:lisbon;O:madrid;O:kyiv;A	3	geography	geography_fact_ood_06
+Q:what answer is associated with ukraine and capital|O:kyiv;O:london;O:lisbon;O:berlin;A	0	geography	geography_fact_ood_06
+Q:choose an answer for ukraine and capital|O:berlin;O:kyiv;O:rome;O:madrid;A	1	geography	geography_fact_ood_06
+Q:which answer fits ukraine and capital|O:rome;O:madrid;O:kyiv;O:berlin;A	2	geography	geography_fact_ood_06
+Q:a new question about ukraine and capital|O:lisbon;O:berlin;O:london;O:kyiv;A	3	geography	geography_fact_ood_06
+Q:choose an answer for zambia and capital|O:lusaka;O:london;O:berlin;O:paris;A	0	geography	geography_fact_ood_07
+Q:which answer fits zambia and capital|O:paris;O:lusaka;O:rome;O:madrid;A	1	geography	geography_fact_ood_07
+Q:a new question about zambia and capital|O:rome;O:london;O:lusaka;O:berlin;A	2	geography	geography_fact_ood_07
+Q:what answer is associated with zambia and capital|O:london;O:berlin;O:paris;O:lusaka;A	3	geography	geography_fact_ood_07
+Q:choose an answer for zambia and capital|O:lusaka;O:rome;O:london;O:berlin;A	0	geography	geography_fact_ood_07
+Q:which answer fits zambia and capital|O:lisbon;O:lusaka;O:madrid;O:paris;A	1	geography	geography_fact_ood_07
+Q:a new question about zambia and capital|O:paris;O:madrid;O:lusaka;O:lisbon;A	2	geography	geography_fact_ood_07
+Q:what answer is associated with zambia and capital|O:berlin;O:madrid;O:paris;O:lusaka;A	3	geography	geography_fact_ood_07
+Q:which answer fits zimbabwe and capital|O:harare;O:lisbon;O:london;O:rome;A	0	geography	geography_fact_ood_08
+Q:a new question about zimbabwe and capital|O:london;O:harare;O:paris;O:lisbon;A	1	geography	geography_fact_ood_08
+Q:what answer is associated with zimbabwe and capital|O:lisbon;O:london;O:harare;O:madrid;A	2	geography	geography_fact_ood_08
+Q:choose an answer for zimbabwe and capital|O:london;O:berlin;O:rome;O:harare;A	3	geography	geography_fact_ood_08
+Q:which answer fits zimbabwe and capital|O:harare;O:lisbon;O:london;O:madrid;A	0	geography	geography_fact_ood_08
+Q:a new question about zimbabwe and capital|O:berlin;O:harare;O:lisbon;O:rome;A	1	geography	geography_fact_ood_08
+Q:what answer is associated with zimbabwe and capital|O:madrid;O:paris;O:harare;O:rome;A	2	geography	geography_fact_ood_08
+Q:choose an answer for zimbabwe and capital|O:paris;O:london;O:madrid;O:harare;A	3	geography	geography_fact_ood_08
+Q:a new question about rwanda and capital|O:kigali;O:paris;O:madrid;O:berlin;A	0	geography	geography_fact_ood_09
+Q:what answer is associated with rwanda and capital|O:berlin;O:kigali;O:lisbon;O:madrid;A	1	geography	geography_fact_ood_09
+Q:choose an answer for rwanda and capital|O:rome;O:london;O:kigali;O:berlin;A	2	geography	geography_fact_ood_09
+Q:which answer fits rwanda and capital|O:london;O:berlin;O:lisbon;O:kigali;A	3	geography	geography_fact_ood_09
+Q:a new question about rwanda and capital|O:kigali;O:lisbon;O:madrid;O:paris;A	0	geography	geography_fact_ood_09
+Q:what answer is associated with rwanda and capital|O:berlin;O:kigali;O:lisbon;O:paris;A	1	geography	geography_fact_ood_09
+Q:choose an answer for rwanda and capital|O:paris;O:madrid;O:kigali;O:london;A	2	geography	geography_fact_ood_09
+Q:which answer fits rwanda and capital|O:lisbon;O:madrid;O:london;O:kigali;A	3	geography	geography_fact_ood_09
+Q:what answer is associated with serbia and capital|O:belgrade;O:lisbon;O:paris;O:rome;A	0	geography	geography_fact_ood_10
+Q:choose an answer for serbia and capital|O:lisbon;O:belgrade;O:rome;O:madrid;A	1	geography	geography_fact_ood_10
+Q:which answer fits serbia and capital|O:rome;O:berlin;O:belgrade;O:london;A	2	geography	geography_fact_ood_10
+Q:a new question about serbia and capital|O:paris;O:lisbon;O:madrid;O:belgrade;A	3	geography	geography_fact_ood_10
+Q:what answer is associated with serbia and capital|O:belgrade;O:madrid;O:paris;O:berlin;A	0	geography	geography_fact_ood_10
+Q:choose an answer for serbia and capital|O:london;O:belgrade;O:paris;O:madrid;A	1	geography	geography_fact_ood_10
+Q:which answer fits serbia and capital|O:berlin;O:lisbon;O:belgrade;O:madrid;A	2	geography	geography_fact_ood_10
+Q:a new question about serbia and capital|O:berlin;O:lisbon;O:paris;O:belgrade;A	3	geography	geography_fact_ood_10
+Q:choose an answer for slovenia and capital|O:ljubljana;O:paris;O:london;O:lisbon;A	0	geography	geography_fact_ood_11
+Q:which answer fits slovenia and capital|O:paris;O:ljubljana;O:rome;O:madrid;A	1	geography	geography_fact_ood_11
+Q:a new question about slovenia and capital|O:berlin;O:madrid;O:ljubljana;O:lisbon;A	2	geography	geography_fact_ood_11
+Q:what answer is associated with slovenia and capital|O:london;O:paris;O:rome;O:ljubljana;A	3	geography	geography_fact_ood_11
+Q:choose an answer for slovenia and capital|O:ljubljana;O:madrid;O:paris;O:berlin;A	0	geography	geography_fact_ood_11
+Q:which answer fits slovenia and capital|O:madrid;O:ljubljana;O:berlin;O:london;A	1	geography	geography_fact_ood_11
+Q:a new question about slovenia and capital|O:rome;O:lisbon;O:ljubljana;O:london;A	2	geography	geography_fact_ood_11
+Q:what answer is associated with slovenia and capital|O:rome;O:lisbon;O:berlin;O:ljubljana;A	3	geography	geography_fact_ood_11
+Q:which answer fits tanzania and capital|O:dodoma;O:berlin;O:rome;O:madrid;A	0	geography	geography_fact_ood_12
+Q:a new question about tanzania and capital|O:rome;O:dodoma;O:lisbon;O:paris;A	1	geography	geography_fact_ood_12
+Q:what answer is associated with tanzania and capital|O:paris;O:madrid;O:dodoma;O:london;A	2	geography	geography_fact_ood_12
+Q:choose an answer for tanzania and capital|O:rome;O:paris;O:london;O:dodoma;A	3	geography	geography_fact_ood_12
+Q:which answer fits tanzania and capital|O:dodoma;O:paris;O:berlin;O:london;A	0	geography	geography_fact_ood_12
+Q:a new question about tanzania and capital|O:lisbon;O:dodoma;O:rome;O:london;A	1	geography	geography_fact_ood_12
+Q:what answer is associated with tanzania and capital|O:rome;O:madrid;O:dodoma;O:paris;A	2	geography	geography_fact_ood_12
+Q:choose an answer for tanzania and capital|O:paris;O:lisbon;O:madrid;O:dodoma;A	3	geography	geography_fact_ood_12
+Q:a new question about archimedes principle and relates|O:buoyant force;O:average kinetic energy;O:bound charges;O:bouncing from surface;A	0	physics	physics_fact_ood_01
+Q:what answer is associated with archimedes principle and relates|O:average kinetic energy;O:buoyant force;O:action reaction;O:bound charges;A	1	physics	physics_fact_ood_01
+Q:choose an answer for archimedes principle and relates|O:attraction between masses;O:bouncing from surface;O:buoyant force;O:average kinetic energy;A	2	physics	physics_fact_ood_01
+Q:which answer fits archimedes principle and relates|O:bouncing from surface;O:bound charges;O:bending in medium;O:buoyant force;A	3	physics	physics_fact_ood_01
+Q:a new question about archimedes principle and relates|O:buoyant force;O:bound charges;O:attraction between masses;O:bouncing from surface;A	0	physics	physics_fact_ood_01
+Q:what answer is associated with archimedes principle and relates|O:action reaction;O:buoyant force;O:bouncing from surface;O:bending in medium;A	1	physics	physics_fact_ood_01
+Q:choose an answer for archimedes principle and relates|O:attraction between masses;O:bouncing from surface;O:buoyant force;O:bound charges;A	2	physics	physics_fact_ood_01
+Q:which answer fits archimedes principle and relates|O:bouncing from surface;O:average kinetic energy;O:action reaction;O:buoyant force;A	3	physics	physics_fact_ood_01
+Q:what answer is associated with bernoulli principle and relates|O:pressure velocity;O:bouncing from surface;O:bound charges;O:attraction between masses;A	0	physics	physics_fact_ood_02
+Q:choose an answer for bernoulli principle and relates|O:bound charges;O:pressure velocity;O:bending in medium;O:bouncing from surface;A	1	physics	physics_fact_ood_02
+Q:which answer fits bernoulli principle and relates|O:attraction between masses;O:bound charges;O:pressure velocity;O:bending in medium;A	2	physics	physics_fact_ood_02
+Q:a new question about bernoulli principle and relates|O:bending in medium;O:attraction between masses;O:bound charges;O:pressure velocity;A	3	physics	physics_fact_ood_02
+Q:what answer is associated with bernoulli principle and relates|O:pressure velocity;O:bouncing from surface;O:decay time;O:action reaction;A	0	physics	physics_fact_ood_02
+Q:choose an answer for bernoulli principle and relates|O:bouncing from surface;O:pressure velocity;O:decay time;O:attraction between masses;A	1	physics	physics_fact_ood_02
+Q:which answer fits bernoulli principle and relates|O:decay time;O:bouncing from surface;O:pressure velocity;O:attraction between masses;A	2	physics	physics_fact_ood_02
+Q:a new question about bernoulli principle and relates|O:bound charges;O:attraction between masses;O:action reaction;O:pressure velocity;A	3	physics	physics_fact_ood_02
+Q:choose an answer for coriolis effect and causes|O:motion deflection;O:bouncing from surface;O:action reaction;O:attraction between masses;A	0	physics	physics_fact_ood_03
+Q:which answer fits coriolis effect and causes|O:attraction between masses;O:motion deflection;O:action reaction;O:bouncing from surface;A	1	physics	physics_fact_ood_03
+Q:a new question about coriolis effect and causes|O:average kinetic energy;O:action reaction;O:motion deflection;O:attraction between masses;A	2	physics	physics_fact_ood_03
+Q:what answer is associated with coriolis effect and causes|O:attraction between masses;O:action reaction;O:bending in medium;O:motion deflection;A	3	physics	physics_fact_ood_03
+Q:choose an answer for coriolis effect and causes|O:motion deflection;O:bouncing from surface;O:average kinetic energy;O:attraction between masses;A	0	physics	physics_fact_ood_03
+Q:which answer fits coriolis effect and causes|O:average kinetic energy;O:motion deflection;O:bouncing from surface;O:attraction between masses;A	1	physics	physics_fact_ood_03
+Q:a new question about coriolis effect and causes|O:average kinetic energy;O:bouncing from surface;O:motion deflection;O:bound charges;A	2	physics	physics_fact_ood_03
+Q:what answer is associated with coriolis effect and causes|O:bouncing from surface;O:bound charges;O:bending in medium;O:motion deflection;A	3	physics	physics_fact_ood_03
+Q:which answer fits doppler effect and changes|O:observed frequency;O:average kinetic energy;O:bouncing from surface;O:bound charges;A	0	physics	physics_fact_ood_04
+Q:a new question about doppler effect and changes|O:bouncing from surface;O:observed frequency;O:bending in medium;O:bound charges;A	1	physics	physics_fact_ood_04
+Q:what answer is associated with doppler effect and changes|O:bending in medium;O:attraction between masses;O:observed frequency;O:bouncing from surface;A	2	physics	physics_fact_ood_04
+Q:choose an answer for doppler effect and changes|O:bouncing from surface;O:bound charges;O:average kinetic energy;O:observed frequency;A	3	physics	physics_fact_ood_04
+Q:which answer fits doppler effect and changes|O:observed frequency;O:attraction between masses;O:bound charges;O:average kinetic energy;A	0	physics	physics_fact_ood_04
+Q:a new question about doppler effect and changes|O:bound charges;O:observed frequency;O:bouncing from surface;O:action reaction;A	1	physics	physics_fact_ood_04
+Q:what answer is associated with doppler effect and changes|O:average kinetic energy;O:bouncing from surface;O:observed frequency;O:bending in medium;A	2	physics	physics_fact_ood_04
+Q:choose an answer for doppler effect and changes|O:bound charges;O:average kinetic energy;O:bouncing from surface;O:observed frequency;A	3	physics	physics_fact_ood_04
+Q:a new question about gauss law and relates|O:electric flux charge;O:bending in medium;O:bouncing from surface;O:action reaction;A	0	physics	physics_fact_ood_05
+Q:what answer is associated with gauss law and relates|O:action reaction;O:electric flux charge;O:bending in medium;O:average kinetic energy;A	1	physics	physics_fact_ood_05
+Q:choose an answer for gauss law and relates|O:average kinetic energy;O:bending in medium;O:electric flux charge;O:attraction between masses;A	2	physics	physics_fact_ood_05
+Q:which answer fits gauss law and relates|O:action reaction;O:average kinetic energy;O:bending in medium;O:electric flux charge;A	3	physics	physics_fact_ood_05
+Q:a new question about gauss law and relates|O:electric flux charge;O:average kinetic energy;O:bending in medium;O:action reaction;A	0	physics	physics_fact_ood_05
+Q:what answer is associated with gauss law and relates|O:attraction between masses;O:electric flux charge;O:bending in medium;O:bouncing from surface;A	1	physics	physics_fact_ood_05
+Q:choose an answer for gauss law and relates|O:average kinetic energy;O:action reaction;O:electric flux charge;O:bending in medium;A	2	physics	physics_fact_ood_05
+Q:which answer fits gauss law and relates|O:bound charges;O:attraction between masses;O:action reaction;O:electric flux charge;A	3	physics	physics_fact_ood_05
+Q:what answer is associated with lens and forms|O:focal image;O:bound charges;O:action reaction;O:fluid motion;A	0	physics	physics_fact_ood_06
+Q:choose an answer for lens and forms|O:bouncing from surface;O:focal image;O:average kinetic energy;O:bound charges;A	1	physics	physics_fact_ood_06
+Q:which answer fits lens and forms|O:attraction between masses;O:fluid motion;O:focal image;O:action reaction;A	2	physics	physics_fact_ood_06
+Q:a new question about lens and forms|O:bouncing from surface;O:fluid motion;O:action reaction;O:focal image;A	3	physics	physics_fact_ood_06
+Q:what answer is associated with lens and forms|O:focal image;O:action reaction;O:average kinetic energy;O:bound charges;A	0	physics	physics_fact_ood_06
+Q:choose an answer for lens and forms|O:action reaction;O:focal image;O:bouncing from surface;O:bound charges;A	1	physics	physics_fact_ood_06
+Q:which answer fits lens and forms|O:fluid motion;O:bouncing from surface;O:focal image;O:attraction between masses;A	2	physics	physics_fact_ood_06
+Q:a new question about lens and forms|O:attraction between masses;O:bound charges;O:average kinetic energy;O:focal image;A	3	physics	physics_fact_ood_06
+Q:choose an answer for snells law and relates|O:refraction angles;O:action reaction;O:bouncing from surface;O:bound charges;A	0	physics	physics_fact_ood_07
+Q:which answer fits snells law and relates|O:bound charges;O:refraction angles;O:average kinetic energy;O:action reaction;A	1	physics	physics_fact_ood_07
+Q:a new question about snells law and relates|O:attraction between masses;O:bouncing from surface;O:refraction angles;O:bound charges;A	2	physics	physics_fact_ood_07
+Q:what answer is associated with snells law and relates|O:bouncing from surface;O:fluid motion;O:attraction between masses;O:refraction angles;A	3	physics	physics_fact_ood_07
+Q:choose an answer for snells law and relates|O:refraction angles;O:action reaction;O:fluid motion;O:bouncing from surface;A	0	physics	physics_fact_ood_07
+Q:which answer fits snells law and relates|O:average kinetic energy;O:refraction angles;O:bouncing from surface;O:action reaction;A	1	physics	physics_fact_ood_07
+Q:a new question about snells law and relates|O:average kinetic energy;O:fluid motion;O:refraction angles;O:bouncing from surface;A	2	physics	physics_fact_ood_07
+Q:what answer is associated with snells law and relates|O:fluid motion;O:attraction between masses;O:average kinetic energy;O:refraction angles;A	3	physics	physics_fact_ood_07
+Q:which answer fits conservation of energy and requires|O:constant total energy;O:bending in medium;O:average kinetic energy;O:action reaction;A	0	physics	physics_fact_ood_08
+Q:a new question about conservation of energy and requires|O:action reaction;O:constant total energy;O:bouncing from surface;O:average kinetic energy;A	1	physics	physics_fact_ood_08
+Q:what answer is associated with conservation of energy and requires|O:attraction between masses;O:bound charges;O:constant total energy;O:action reaction;A	2	physics	physics_fact_ood_08
+Q:choose an answer for conservation of energy and requires|O:attraction between masses;O:bouncing from surface;O:bending in medium;O:constant total energy;A	3	physics	physics_fact_ood_08
+Q:which answer fits conservation of energy and requires|O:constant total energy;O:bound charges;O:action reaction;O:average kinetic energy;A	0	physics	physics_fact_ood_08
+Q:a new question about conservation of energy and requires|O:bound charges;O:constant total energy;O:average kinetic energy;O:bouncing from surface;A	1	physics	physics_fact_ood_08
+Q:what answer is associated with conservation of energy and requires|O:bouncing from surface;O:bending in medium;O:constant total energy;O:average kinetic energy;A	2	physics	physics_fact_ood_08
+Q:choose an answer for conservation of energy and requires|O:bouncing from surface;O:action reaction;O:bending in medium;O:constant total energy;A	3	physics	physics_fact_ood_08
+Q:a new question about equipotential surface and has|O:same voltage;O:attraction between masses;O:action reaction;O:average kinetic energy;A	0	physics	physics_fact_ood_09
+Q:what answer is associated with equipotential surface and has|O:average kinetic energy;O:same voltage;O:bouncing from surface;O:action reaction;A	1	physics	physics_fact_ood_09
+Q:choose an answer for equipotential surface and has|O:attraction between masses;O:average kinetic energy;O:same voltage;O:bouncing from surface;A	2	physics	physics_fact_ood_09
+Q:which answer fits equipotential surface and has|O:action reaction;O:bending in medium;O:bound charges;O:same voltage;A	3	physics	physics_fact_ood_09
+Q:a new question about equipotential surface and has|O:same voltage;O:bound charges;O:average kinetic energy;O:attraction between masses;A	0	physics	physics_fact_ood_09
+Q:what answer is associated with equipotential surface and has|O:bending in medium;O:same voltage;O:attraction between masses;O:average kinetic energy;A	1	physics	physics_fact_ood_09
+Q:choose an answer for equipotential surface and has|O:bending in medium;O:average kinetic energy;O:same voltage;O:bound charges;A	2	physics	physics_fact_ood_09
+Q:which answer fits equipotential surface and has|O:average kinetic energy;O:attraction between masses;O:action reaction;O:same voltage;A	3	physics	physics_fact_ood_09
+Q:what answer is associated with specific heat and means|O:energy per mass degree;O:bouncing from surface;O:attraction between masses;O:bound charges;A	0	physics	physics_fact_ood_10
+Q:choose an answer for specific heat and means|O:bending in medium;O:energy per mass degree;O:bound charges;O:attraction between masses;A	1	physics	physics_fact_ood_10
+Q:which answer fits specific heat and means|O:bound charges;O:action reaction;O:energy per mass degree;O:bouncing from surface;A	2	physics	physics_fact_ood_10
+Q:a new question about specific heat and means|O:bouncing from surface;O:average kinetic energy;O:bending in medium;O:energy per mass degree;A	3	physics	physics_fact_ood_10
+Q:what answer is associated with specific heat and means|O:energy per mass degree;O:average kinetic energy;O:bound charges;O:bouncing from surface;A	0	physics	physics_fact_ood_10
+Q:choose an answer for specific heat and means|O:attraction between masses;O:energy per mass degree;O:action reaction;O:average kinetic energy;A	1	physics	physics_fact_ood_10
+Q:which answer fits specific heat and means|O:action reaction;O:bound charges;O:energy per mass degree;O:attraction between masses;A	2	physics	physics_fact_ood_10
+Q:a new question about specific heat and means|O:average kinetic energy;O:bending in medium;O:bound charges;O:energy per mass degree;A	3	physics	physics_fact_ood_10
+Q:choose an answer for terminal velocity and means|O:constant falling speed;O:bouncing from surface;O:bound charges;O:average kinetic energy;A	0	physics	physics_fact_ood_11
+Q:which answer fits terminal velocity and means|O:attraction between masses;O:constant falling speed;O:bound charges;O:bending in medium;A	1	physics	physics_fact_ood_11
+Q:a new question about terminal velocity and means|O:bending in medium;O:average kinetic energy;O:constant falling speed;O:action reaction;A	2	physics	physics_fact_ood_11
+Q:what answer is associated with terminal velocity and means|O:average kinetic energy;O:attraction between masses;O:bound charges;O:constant falling speed;A	3	physics	physics_fact_ood_11
+Q:choose an answer for terminal velocity and means|O:constant falling speed;O:average kinetic energy;O:action reaction;O:bouncing from surface;A	0	physics	physics_fact_ood_11
+Q:which answer fits terminal velocity and means|O:action reaction;O:constant falling speed;O:average kinetic energy;O:bouncing from surface;A	1	physics	physics_fact_ood_11
+Q:a new question about terminal velocity and means|O:action reaction;O:bending in medium;O:constant falling speed;O:average kinetic energy;A	2	physics	physics_fact_ood_11
+Q:what answer is associated with terminal velocity and means|O:average kinetic energy;O:bending in medium;O:bound charges;O:constant falling speed;A	3	physics	physics_fact_ood_11
+Q:which answer fits elastic collision and conserves|O:kinetic energy;O:bouncing from surface;O:attraction between masses;O:bending in medium;A	0	physics	physics_fact_ood_12
+Q:a new question about elastic collision and conserves|O:bending in medium;O:kinetic energy;O:action reaction;O:bound charges;A	1	physics	physics_fact_ood_12
+Q:what answer is associated with elastic collision and conserves|O:bound charges;O:action reaction;O:kinetic energy;O:bending in medium;A	2	physics	physics_fact_ood_12
+Q:choose an answer for elastic collision and conserves|O:attraction between masses;O:voltage current resistance;O:bouncing from surface;O:kinetic energy;A	3	physics	physics_fact_ood_12
+Q:which answer fits elastic collision and conserves|O:kinetic energy;O:bending in medium;O:voltage current resistance;O:attraction between masses;A	0	physics	physics_fact_ood_12
+Q:a new question about elastic collision and conserves|O:voltage current resistance;O:kinetic energy;O:bending in medium;O:action reaction;A	1	physics	physics_fact_ood_12
+Q:what answer is associated with elastic collision and conserves|O:voltage current resistance;O:bending in medium;O:kinetic energy;O:action reaction;A	2	physics	physics_fact_ood_12
+Q:choose an answer for elastic collision and conserves|O:voltage current resistance;O:bound charges;O:action reaction;O:kinetic energy;A	3	physics	physics_fact_ood_12
+Q:a new question about avl tree and maintains|O:balanced height;O:deception;O:circular wait;O:disk extension;A	0	computer_science	computer_science_fact_ood_01
+Q:what answer is associated with avl tree and maintains|O:at runtime;O:balanced height;O:base case;O:confidentiality;A	1	computer_science	computer_science_fact_ood_01
+Q:choose an answer for avl tree and maintains|O:circular wait;O:deception;O:balanced height;O:disk extension;A	2	computer_science	computer_science_fact_ood_01
+Q:which answer fits avl tree and maintains|O:base case;O:circular wait;O:disk extension;O:balanced height;A	3	computer_science	computer_science_fact_ood_01
+Q:a new question about avl tree and maintains|O:balanced height;O:confidentiality;O:deception;O:circular wait;A	0	computer_science	computer_science_fact_ood_01
+Q:what answer is associated with avl tree and maintains|O:base case;O:balanced height;O:at runtime;O:confidentiality;A	1	computer_science	computer_science_fact_ood_01
+Q:choose an answer for avl tree and maintains|O:confidentiality;O:circular wait;O:balanced height;O:base case;A	2	computer_science	computer_science_fact_ood_01
+Q:which answer fits avl tree and maintains|O:disk extension;O:deception;O:circular wait;O:balanced height;A	3	computer_science	computer_science_fact_ood_01
+Q:what answer is associated with dijkstra algorithm and finds|O:shortest path;O:circular wait;O:at runtime;O:disk extension;A	0	computer_science	computer_science_fact_ood_02
+Q:choose an answer for dijkstra algorithm and finds|O:disk extension;O:shortest path;O:at runtime;O:base case;A	1	computer_science	computer_science_fact_ood_02
+Q:which answer fits dijkstra algorithm and finds|O:disk extension;O:circular wait;O:shortest path;O:at runtime;A	2	computer_science	computer_science_fact_ood_02
+Q:a new question about dijkstra algorithm and finds|O:base case;O:circular wait;O:disk extension;O:shortest path;A	3	computer_science	computer_science_fact_ood_02
+Q:what answer is associated with dijkstra algorithm and finds|O:shortest path;O:disk extension;O:at runtime;O:circular wait;A	0	computer_science	computer_science_fact_ood_02
+Q:choose an answer for dijkstra algorithm and finds|O:deception;O:shortest path;O:at runtime;O:confidentiality;A	1	computer_science	computer_science_fact_ood_02
+Q:which answer fits dijkstra algorithm and finds|O:at runtime;O:deception;O:shortest path;O:circular wait;A	2	computer_science	computer_science_fact_ood_02
+Q:a new question about dijkstra algorithm and finds|O:deception;O:confidentiality;O:at runtime;O:shortest path;A	3	computer_science	computer_science_fact_ood_02
+Q:choose an answer for mutex and provides|O:mutual exclusion;O:circular wait;O:confidentiality;O:disk extension;A	0	computer_science	computer_science_fact_ood_03
+Q:which answer fits mutex and provides|O:confidentiality;O:mutual exclusion;O:circular wait;O:base case;A	1	computer_science	computer_science_fact_ood_03
+Q:a new question about mutex and provides|O:disk extension;O:at runtime;O:mutual exclusion;O:base case;A	2	computer_science	computer_science_fact_ood_03
+Q:what answer is associated with mutex and provides|O:confidentiality;O:deception;O:disk extension;O:mutual exclusion;A	3	computer_science	computer_science_fact_ood_03
+Q:choose an answer for mutex and provides|O:mutual exclusion;O:at runtime;O:disk extension;O:circular wait;A	0	computer_science	computer_science_fact_ood_03
+Q:which answer fits mutex and provides|O:circular wait;O:mutual exclusion;O:at runtime;O:base case;A	1	computer_science	computer_science_fact_ood_03
+Q:a new question about mutex and provides|O:confidentiality;O:at runtime;O:mutual exclusion;O:base case;A	2	computer_science	computer_science_fact_ood_03
+Q:what answer is associated with mutex and provides|O:deception;O:disk extension;O:at runtime;O:mutual exclusion;A	3	computer_science	computer_science_fact_ood_03
+Q:which answer fits garbage collector and reclaims|O:unused memory;O:deception;O:confidentiality;O:at runtime;A	0	computer_science	computer_science_fact_ood_04
+Q:a new question about garbage collector and reclaims|O:confidentiality;O:unused memory;O:deception;O:base case;A	1	computer_science	computer_science_fact_ood_04
+Q:what answer is associated with garbage collector and reclaims|O:at runtime;O:base case;O:unused memory;O:circular wait;A	2	computer_science	computer_science_fact_ood_04
+Q:choose an answer for garbage collector and reclaims|O:disk extension;O:circular wait;O:confidentiality;O:unused memory;A	3	computer_science	computer_science_fact_ood_04
+Q:which answer fits garbage collector and reclaims|O:unused memory;O:deception;O:disk extension;O:at runtime;A	0	computer_science	computer_science_fact_ood_04
+Q:a new question about garbage collector and reclaims|O:deception;O:unused memory;O:confidentiality;O:base case;A	1	computer_science	computer_science_fact_ood_04
+Q:what answer is associated with garbage collector and reclaims|O:circular wait;O:disk extension;O:unused memory;O:confidentiality;A	2	computer_science	computer_science_fact_ood_04
+Q:choose an answer for garbage collector and reclaims|O:circular wait;O:deception;O:base case;O:unused memory;A	3	computer_science	computer_science_fact_ood_04
+Q:a new question about container and provides|O:process isolation;O:confidentiality;O:circular wait;O:deception;A	0	computer_science	computer_science_fact_ood_05
+Q:what answer is associated with container and provides|O:base case;O:process isolation;O:confidentiality;O:at runtime;A	1	computer_science	computer_science_fact_ood_05
+Q:choose an answer for container and provides|O:at runtime;O:base case;O:process isolation;O:disk extension;A	2	computer_science	computer_science_fact_ood_05
+Q:which answer fits container and provides|O:base case;O:confidentiality;O:disk extension;O:process isolation;A	3	computer_science	computer_science_fact_ood_05
+Q:a new question about container and provides|O:process isolation;O:base case;O:disk extension;O:at runtime;A	0	computer_science	computer_science_fact_ood_05
+Q:what answer is associated with container and provides|O:deception;O:process isolation;O:circular wait;O:at runtime;A	1	computer_science	computer_science_fact_ood_05
+Q:choose an answer for container and provides|O:disk extension;O:at runtime;O:process isolation;O:circular wait;A	2	computer_science	computer_science_fact_ood_05
+Q:which answer fits container and provides|O:confidentiality;O:deception;O:base case;O:process isolation;A	3	computer_science	computer_science_fact_ood_05
+Q:what answer is associated with latency and means|O:delivery delay;O:deception;O:at runtime;O:circular wait;A	0	computer_science	computer_science_fact_ood_06
+Q:choose an answer for latency and means|O:disk extension;O:delivery delay;O:circular wait;O:deception;A	1	computer_science	computer_science_fact_ood_06
+Q:which answer fits latency and means|O:circular wait;O:deception;O:delivery delay;O:base case;A	2	computer_science	computer_science_fact_ood_06
+Q:a new question about latency and means|O:base case;O:disk extension;O:confidentiality;O:delivery delay;A	3	computer_science	computer_science_fact_ood_06
+Q:what answer is associated with latency and means|O:delivery delay;O:circular wait;O:confidentiality;O:at runtime;A	0	computer_science	computer_science_fact_ood_06
+Q:choose an answer for latency and means|O:at runtime;O:delivery delay;O:deception;O:confidentiality;A	1	computer_science	computer_science_fact_ood_06
+Q:which answer fits latency and means|O:deception;O:base case;O:delivery delay;O:confidentiality;A	2	computer_science	computer_science_fact_ood_06
+Q:a new question about latency and means|O:disk extension;O:circular wait;O:base case;O:delivery delay;A	3	computer_science	computer_science_fact_ood_06
+Q:choose an answer for bandwidth and means|O:data rate;O:circular wait;O:at runtime;O:base case;A	0	computer_science	computer_science_fact_ood_07
+Q:which answer fits bandwidth and means|O:confidentiality;O:data rate;O:disk extension;O:at runtime;A	1	computer_science	computer_science_fact_ood_07
+Q:a new question about bandwidth and means|O:circular wait;O:confidentiality;O:data rate;O:disk extension;A	2	computer_science	computer_science_fact_ood_07
+Q:what answer is associated with bandwidth and means|O:circular wait;O:confidentiality;O:deception;O:data rate;A	3	computer_science	computer_science_fact_ood_07
+Q:choose an answer for bandwidth and means|O:data rate;O:at runtime;O:deception;O:disk extension;A	0	computer_science	computer_science_fact_ood_07
+Q:which answer fits bandwidth and means|O:disk extension;O:data rate;O:at runtime;O:deception;A	1	computer_science	computer_science_fact_ood_07
+Q:a new question about bandwidth and means|O:at runtime;O:disk extension;O:data rate;O:base case;A	2	computer_science	computer_science_fact_ood_07
+Q:what answer is associated with bandwidth and means|O:base case;O:confidentiality;O:circular wait;O:data rate;A	3	computer_science	computer_science_fact_ood_07
+Q:which answer fits checksum and detects|O:transmission errors;O:base case;O:deception;O:disk extension;A	0	computer_science	computer_science_fact_ood_08
+Q:a new question about checksum and detects|O:deception;O:transmission errors;O:at runtime;O:confidentiality;A	1	computer_science	computer_science_fact_ood_08
+Q:what answer is associated with checksum and detects|O:deception;O:confidentiality;O:transmission errors;O:circular wait;A	2	computer_science	computer_science_fact_ood_08
+Q:choose an answer for checksum and detects|O:base case;O:circular wait;O:disk extension;O:transmission errors;A	3	computer_science	computer_science_fact_ood_08
+Q:which answer fits checksum and detects|O:transmission errors;O:circular wait;O:deception;O:confidentiality;A	0	computer_science	computer_science_fact_ood_08
+Q:a new question about checksum and detects|O:circular wait;O:transmission errors;O:base case;O:confidentiality;A	1	computer_science	computer_science_fact_ood_08
+Q:what answer is associated with checksum and detects|O:confidentiality;O:disk extension;O:transmission errors;O:base case;A	2	computer_science	computer_science_fact_ood_08
+Q:choose an answer for checksum and detects|O:circular wait;O:base case;O:disk extension;O:transmission errors;A	3	computer_science	computer_science_fact_ood_08
+Q:a new question about polymorphism and allows|O:many forms;O:at runtime;O:deception;O:base case;A	0	computer_science	computer_science_fact_ood_09
+Q:what answer is associated with polymorphism and allows|O:at runtime;O:many forms;O:base case;O:confidentiality;A	1	computer_science	computer_science_fact_ood_09
+Q:choose an answer for polymorphism and allows|O:circular wait;O:confidentiality;O:many forms;O:base case;A	2	computer_science	computer_science_fact_ood_09
+Q:which answer fits polymorphism and allows|O:circular wait;O:base case;O:deception;O:many forms;A	3	computer_science	computer_science_fact_ood_09
+Q:a new question about polymorphism and allows|O:many forms;O:disk extension;O:confidentiality;O:circular wait;A	0	computer_science	computer_science_fact_ood_09
+Q:what answer is associated with polymorphism and allows|O:at runtime;O:many forms;O:circular wait;O:base case;A	1	computer_science	computer_science_fact_ood_09
+Q:choose an answer for polymorphism and allows|O:deception;O:confidentiality;O:many forms;O:disk extension;A	2	computer_science	computer_science_fact_ood_09
+Q:which answer fits polymorphism and allows|O:circular wait;O:deception;O:disk extension;O:many forms;A	3	computer_science	computer_science_fact_ood_09
+Q:what answer is associated with salt and adds|O:password randomness;O:base case;O:confidentiality;O:disk extension;A	0	computer_science	computer_science_fact_ood_10
+Q:choose an answer for salt and adds|O:base case;O:password randomness;O:at runtime;O:confidentiality;A	1	computer_science	computer_science_fact_ood_10
+Q:which answer fits salt and adds|O:circular wait;O:base case;O:password randomness;O:deception;A	2	computer_science	computer_science_fact_ood_10
+Q:a new question about salt and adds|O:disk extension;O:confidentiality;O:at runtime;O:password randomness;A	3	computer_science	computer_science_fact_ood_10
+Q:what answer is associated with salt and adds|O:password randomness;O:at runtime;O:circular wait;O:disk extension;A	0	computer_science	computer_science_fact_ood_10
+Q:choose an answer for salt and adds|O:disk extension;O:password randomness;O:base case;O:circular wait;A	1	computer_science	computer_science_fact_ood_10
+Q:which answer fits salt and adds|O:circular wait;O:at runtime;O:password randomness;O:base case;A	2	computer_science	computer_science_fact_ood_10
+Q:a new question about salt and adds|O:at runtime;O:circular wait;O:confidentiality;O:password randomness;A	3	computer_science	computer_science_fact_ood_10
+Q:choose an answer for csrf and means|O:cross site request forgery;O:base case;O:disk extension;O:confidentiality;A	0	computer_science	computer_science_fact_ood_11
+Q:which answer fits csrf and means|O:confidentiality;O:cross site request forgery;O:circular wait;O:deception;A	1	computer_science	computer_science_fact_ood_11
+Q:a new question about csrf and means|O:circular wait;O:at runtime;O:cross site request forgery;O:confidentiality;A	2	computer_science	computer_science_fact_ood_11
+Q:what answer is associated with csrf and means|O:disk extension;O:deception;O:circular wait;O:cross site request forgery;A	3	computer_science	computer_science_fact_ood_11
+Q:choose an answer for csrf and means|O:cross site request forgery;O:base case;O:circular wait;O:at runtime;A	0	computer_science	computer_science_fact_ood_11
+Q:which answer fits csrf and means|O:confidentiality;O:cross site request forgery;O:deception;O:disk extension;A	1	computer_science	computer_science_fact_ood_11
+Q:a new question about csrf and means|O:deception;O:confidentiality;O:cross site request forgery;O:disk extension;A	2	computer_science	computer_science_fact_ood_11
+Q:what answer is associated with csrf and means|O:deception;O:confidentiality;O:circular wait;O:cross site request forgery;A	3	computer_science	computer_science_fact_ood_11
+Q:which answer fits load balancer and distributes|O:network requests;O:base case;O:disk extension;O:confidentiality;A	0	computer_science	computer_science_fact_ood_12
+Q:a new question about load balancer and distributes|O:base case;O:network requests;O:deception;O:circular wait;A	1	computer_science	computer_science_fact_ood_12
+Q:what answer is associated with load balancer and distributes|O:base case;O:at runtime;O:network requests;O:disk extension;A	2	computer_science	computer_science_fact_ood_12
+Q:choose an answer for load balancer and distributes|O:disk extension;O:confidentiality;O:at runtime;O:network requests;A	3	computer_science	computer_science_fact_ood_12
+Q:which answer fits load balancer and distributes|O:network requests;O:circular wait;O:disk extension;O:at runtime;A	0	computer_science	computer_science_fact_ood_12
+Q:a new question about load balancer and distributes|O:circular wait;O:network requests;O:deception;O:at runtime;A	1	computer_science	computer_science_fact_ood_12
+Q:what answer is associated with load balancer and distributes|O:confidentiality;O:circular wait;O:network requests;O:at runtime;A	2	computer_science	computer_science_fact_ood_12
+Q:choose an answer for load balancer and distributes|O:confidentiality;O:disk extension;O:base case;O:network requests;A	3	computer_science	computer_science_fact_ood_12

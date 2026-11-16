@@ -1,0 +1,720 @@
+Q:what answer fits algeria and capital|O:algiers;O:lisbon;O:berlin;O:rome;A	0	geography	geography_in_distribution_01
+Q:which answer is associated with algeria and capital|O:berlin;O:algiers;O:lisbon;O:london;A	1	geography	geography_in_distribution_01
+Q:which concept applies to algeria and capital|O:london;O:rome;O:algiers;O:berlin;A	2	geography	geography_in_distribution_01
+Q:identify the concept associated with algeria and capital|O:london;O:rome;O:lisbon;O:algiers;A	3	geography	geography_in_distribution_01
+Q:for algeria which answer fits capital|O:algiers;O:berlin;O:london;O:paris;A	0	geography	geography_in_distribution_01
+Q:which answer is associated with argentina and capital|O:madrid;O:buenos aires;O:berlin;O:paris;A	1	geography	geography_in_distribution_02
+Q:which concept applies to argentina and capital|O:rome;O:paris;O:buenos aires;O:madrid;A	2	geography	geography_in_distribution_02
+Q:identify the concept associated with argentina and capital|O:paris;O:rome;O:madrid;O:buenos aires;A	3	geography	geography_in_distribution_02
+Q:for argentina which answer fits capital|O:buenos aires;O:paris;O:london;O:rome;A	0	geography	geography_in_distribution_02
+Q:a question about argentina and capital|O:berlin;O:buenos aires;O:lisbon;O:rome;A	1	geography	geography_in_distribution_02
+Q:which concept applies to australia and capital|O:london;O:rome;O:canberra;O:paris;A	2	geography	geography_in_distribution_03
+Q:identify the concept associated with australia and capital|O:london;O:madrid;O:lisbon;O:canberra;A	3	geography	geography_in_distribution_03
+Q:for australia which answer fits capital|O:canberra;O:paris;O:rome;O:madrid;A	0	geography	geography_in_distribution_03
+Q:a question about australia and capital|O:rome;O:canberra;O:london;O:lisbon;A	1	geography	geography_in_distribution_03
+Q:select the answer for australia and capital|O:rome;O:lisbon;O:canberra;O:madrid;A	2	geography	geography_in_distribution_03
+Q:identify the concept associated with austria and capital|O:paris;O:berlin;O:rome;O:vienna;A	3	geography	geography_in_distribution_04
+Q:for austria which answer fits capital|O:vienna;O:paris;O:london;O:madrid;A	0	geography	geography_in_distribution_04
+Q:a question about austria and capital|O:lisbon;O:vienna;O:paris;O:madrid;A	1	geography	geography_in_distribution_04
+Q:select the answer for austria and capital|O:london;O:berlin;O:vienna;O:rome;A	2	geography	geography_in_distribution_04
+Q:which statement matches austria and capital|O:paris;O:rome;O:berlin;O:vienna;A	3	geography	geography_in_distribution_04
+Q:for belgium which answer fits capital|O:brussels;O:madrid;O:london;O:rome;A	0	geography	geography_in_distribution_05
+Q:a question about belgium and capital|O:london;O:brussels;O:berlin;O:lisbon;A	1	geography	geography_in_distribution_05
+Q:select the answer for belgium and capital|O:lisbon;O:london;O:brussels;O:paris;A	2	geography	geography_in_distribution_05
+Q:which statement matches belgium and capital|O:berlin;O:madrid;O:lisbon;O:brussels;A	3	geography	geography_in_distribution_05
+Q:what answer fits belgium and capital|O:brussels;O:berlin;O:london;O:rome;A	0	geography	geography_in_distribution_05
+Q:a question about bhutan and capital|O:paris;O:thimphu;O:london;O:rome;A	1	geography	geography_in_distribution_06
+Q:select the answer for bhutan and capital|O:lisbon;O:paris;O:thimphu;O:berlin;A	2	geography	geography_in_distribution_06
+Q:which statement matches bhutan and capital|O:rome;O:lisbon;O:london;O:thimphu;A	3	geography	geography_in_distribution_06
+Q:what answer fits bhutan and capital|O:thimphu;O:rome;O:london;O:madrid;A	0	geography	geography_in_distribution_06
+Q:which answer is associated with bhutan and capital|O:madrid;O:thimphu;O:rome;O:berlin;A	1	geography	geography_in_distribution_06
+Q:select the answer for botswana and capital|O:rome;O:lisbon;O:gaborone;O:london;A	2	geography	geography_in_distribution_07
+Q:which statement matches botswana and capital|O:lisbon;O:rome;O:london;O:gaborone;A	3	geography	geography_in_distribution_07
+Q:what answer fits botswana and capital|O:gaborone;O:berlin;O:madrid;O:paris;A	0	geography	geography_in_distribution_07
+Q:which answer is associated with botswana and capital|O:rome;O:gaborone;O:london;O:lisbon;A	1	geography	geography_in_distribution_07
+Q:which concept applies to botswana and capital|O:berlin;O:madrid;O:gaborone;O:rome;A	2	geography	geography_in_distribution_07
+Q:which statement matches brazil and capital|O:madrid;O:paris;O:berlin;O:brasilia;A	3	geography	geography_in_distribution_08
+Q:what answer fits brazil and capital|O:brasilia;O:berlin;O:lisbon;O:london;A	0	geography	geography_in_distribution_08
+Q:which answer is associated with brazil and capital|O:berlin;O:brasilia;O:london;O:paris;A	1	geography	geography_in_distribution_08
+Q:which concept applies to brazil and capital|O:rome;O:london;O:brasilia;O:lisbon;A	2	geography	geography_in_distribution_08
+Q:identify the concept associated with brazil and capital|O:berlin;O:madrid;O:lisbon;O:brasilia;A	3	geography	geography_in_distribution_08
+Q:what answer fits bulgaria and capital|O:sofia;O:berlin;O:paris;O:lisbon;A	0	geography	geography_in_distribution_09
+Q:which answer is associated with bulgaria and capital|O:paris;O:sofia;O:rome;O:lisbon;A	1	geography	geography_in_distribution_09
+Q:which concept applies to bulgaria and capital|O:madrid;O:london;O:sofia;O:berlin;A	2	geography	geography_in_distribution_09
+Q:identify the concept associated with bulgaria and capital|O:paris;O:rome;O:london;O:sofia;A	3	geography	geography_in_distribution_09
+Q:for bulgaria which answer fits capital|O:sofia;O:madrid;O:rome;O:lisbon;A	0	geography	geography_in_distribution_09
+Q:which answer is associated with cambodia and capital|O:london;O:phnom penh;O:berlin;O:lisbon;A	1	geography	geography_in_distribution_10
+Q:which concept applies to cambodia and capital|O:lisbon;O:paris;O:phnom penh;O:london;A	2	geography	geography_in_distribution_10
+Q:identify the concept associated with cambodia and capital|O:madrid;O:lisbon;O:berlin;O:phnom penh;A	3	geography	geography_in_distribution_10
+Q:for cambodia which answer fits capital|O:phnom penh;O:paris;O:rome;O:berlin;A	0	geography	geography_in_distribution_10
+Q:a question about cambodia and capital|O:rome;O:phnom penh;O:lisbon;O:paris;A	1	geography	geography_in_distribution_10
+Q:which concept applies to canada and capital|O:rome;O:paris;O:ottawa;O:madrid;A	2	geography	geography_in_distribution_11
+Q:identify the concept associated with canada and capital|O:berlin;O:rome;O:paris;O:ottawa;A	3	geography	geography_in_distribution_11
+Q:for canada which answer fits capital|O:ottawa;O:berlin;O:london;O:lisbon;A	0	geography	geography_in_distribution_11
+Q:a question about canada and capital|O:madrid;O:ottawa;O:london;O:berlin;A	1	geography	geography_in_distribution_11
+Q:select the answer for canada and capital|O:paris;O:rome;O:ottawa;O:london;A	2	geography	geography_in_distribution_11
+Q:identify the concept associated with chile and capital|O:paris;O:berlin;O:london;O:santiago;A	3	geography	geography_in_distribution_12
+Q:for chile which answer fits capital|O:santiago;O:berlin;O:lisbon;O:madrid;A	0	geography	geography_in_distribution_12
+Q:a question about chile and capital|O:london;O:santiago;O:rome;O:madrid;A	1	geography	geography_in_distribution_12
+Q:select the answer for chile and capital|O:rome;O:lisbon;O:santiago;O:london;A	2	geography	geography_in_distribution_12
+Q:which statement matches chile and capital|O:madrid;O:lisbon;O:rome;O:santiago;A	3	geography	geography_in_distribution_12
+Q:for china which answer fits capital|O:beijing;O:london;O:paris;O:lisbon;A	0	geography	geography_in_distribution_13
+Q:a question about china and capital|O:paris;O:beijing;O:london;O:lisbon;A	1	geography	geography_in_distribution_13
+Q:select the answer for china and capital|O:paris;O:london;O:beijing;O:lisbon;A	2	geography	geography_in_distribution_13
+Q:which statement matches china and capital|O:london;O:madrid;O:berlin;O:beijing;A	3	geography	geography_in_distribution_13
+Q:what answer fits china and capital|O:beijing;O:madrid;O:rome;O:lisbon;A	0	geography	geography_in_distribution_13
+Q:a question about colombia and capital|O:rome;O:bogota;O:madrid;O:berlin;A	1	geography	geography_in_distribution_14
+Q:select the answer for colombia and capital|O:madrid;O:rome;O:bogota;O:lisbon;A	2	geography	geography_in_distribution_14
+Q:which statement matches colombia and capital|O:rome;O:london;O:madrid;O:bogota;A	3	geography	geography_in_distribution_14
+Q:what answer fits colombia and capital|O:bogota;O:paris;O:rome;O:london;A	0	geography	geography_in_distribution_14
+Q:which answer is associated with colombia and capital|O:rome;O:bogota;O:lisbon;O:london;A	1	geography	geography_in_distribution_14
+Q:select the answer for croatia and capital|O:rome;O:berlin;O:zagreb;O:london;A	2	geography	geography_in_distribution_15
+Q:which statement matches croatia and capital|O:rome;O:lisbon;O:london;O:zagreb;A	3	geography	geography_in_distribution_15
+Q:what answer fits croatia and capital|O:zagreb;O:berlin;O:london;O:rome;A	0	geography	geography_in_distribution_15
+Q:which answer is associated with croatia and capital|O:rome;O:zagreb;O:london;O:berlin;A	1	geography	geography_in_distribution_15
+Q:which concept applies to croatia and capital|O:berlin;O:paris;O:zagreb;O:london;A	2	geography	geography_in_distribution_15
+Q:which statement matches czechia and capital|O:rome;O:london;O:berlin;O:prague;A	3	geography	geography_in_distribution_16
+Q:what answer fits czechia and capital|O:prague;O:paris;O:lisbon;O:london;A	0	geography	geography_in_distribution_16
+Q:which answer is associated with czechia and capital|O:berlin;O:prague;O:paris;O:rome;A	1	geography	geography_in_distribution_16
+Q:which concept applies to czechia and capital|O:berlin;O:rome;O:prague;O:lisbon;A	2	geography	geography_in_distribution_16
+Q:identify the concept associated with czechia and capital|O:berlin;O:madrid;O:rome;O:prague;A	3	geography	geography_in_distribution_16
+Q:what answer fits denmark and capital|O:copenhagen;O:rome;O:lisbon;O:paris;A	0	geography	geography_in_distribution_17
+Q:which answer is associated with denmark and capital|O:madrid;O:copenhagen;O:london;O:lisbon;A	1	geography	geography_in_distribution_17
+Q:which concept applies to denmark and capital|O:rome;O:paris;O:copenhagen;O:berlin;A	2	geography	geography_in_distribution_17
+Q:identify the concept associated with denmark and capital|O:london;O:paris;O:lisbon;O:copenhagen;A	3	geography	geography_in_distribution_17
+Q:for denmark which answer fits capital|O:copenhagen;O:london;O:madrid;O:rome;A	0	geography	geography_in_distribution_17
+Q:which answer is associated with ecuador and capital|O:lisbon;O:quito;O:london;O:berlin;A	1	geography	geography_in_distribution_18
+Q:which concept applies to ecuador and capital|O:london;O:paris;O:quito;O:lisbon;A	2	geography	geography_in_distribution_18
+Q:identify the concept associated with ecuador and capital|O:paris;O:rome;O:lisbon;O:quito;A	3	geography	geography_in_distribution_18
+Q:for ecuador which answer fits capital|O:quito;O:madrid;O:berlin;O:paris;A	0	geography	geography_in_distribution_18
+Q:a question about ecuador and capital|O:lisbon;O:quito;O:berlin;O:paris;A	1	geography	geography_in_distribution_18
+Q:which concept applies to egypt and capital|O:lisbon;O:madrid;O:cairo;O:rome;A	2	geography	geography_in_distribution_19
+Q:identify the concept associated with egypt and capital|O:rome;O:london;O:madrid;O:cairo;A	3	geography	geography_in_distribution_19
+Q:for egypt which answer fits capital|O:cairo;O:london;O:lisbon;O:rome;A	0	geography	geography_in_distribution_19
+Q:a question about egypt and capital|O:lisbon;O:cairo;O:london;O:madrid;A	1	geography	geography_in_distribution_19
+Q:select the answer for egypt and capital|O:paris;O:madrid;O:cairo;O:london;A	2	geography	geography_in_distribution_19
+Q:identify the concept associated with estonia and capital|O:madrid;O:lisbon;O:berlin;O:tallinn;A	3	geography	geography_in_distribution_20
+Q:for estonia which answer fits capital|O:tallinn;O:london;O:paris;O:berlin;A	0	geography	geography_in_distribution_20
+Q:a question about estonia and capital|O:madrid;O:tallinn;O:london;O:paris;A	1	geography	geography_in_distribution_20
+Q:select the answer for estonia and capital|O:madrid;O:lisbon;O:tallinn;O:paris;A	2	geography	geography_in_distribution_20
+Q:which statement matches estonia and capital|O:rome;O:madrid;O:london;O:tallinn;A	3	geography	geography_in_distribution_20
+Q:for ethiopia which answer fits capital|O:addis ababa;O:madrid;O:lisbon;O:london;A	0	geography	geography_in_distribution_21
+Q:a question about ethiopia and capital|O:rome;O:addis ababa;O:madrid;O:lisbon;A	1	geography	geography_in_distribution_21
+Q:select the answer for ethiopia and capital|O:madrid;O:rome;O:addis ababa;O:lisbon;A	2	geography	geography_in_distribution_21
+Q:which statement matches ethiopia and capital|O:london;O:berlin;O:lisbon;O:addis ababa;A	3	geography	geography_in_distribution_21
+Q:what answer fits ethiopia and capital|O:addis ababa;O:rome;O:lisbon;O:paris;A	0	geography	geography_in_distribution_21
+Q:a question about finland and capital|O:paris;O:helsinki;O:berlin;O:london;A	1	geography	geography_in_distribution_22
+Q:select the answer for finland and capital|O:lisbon;O:rome;O:helsinki;O:berlin;A	2	geography	geography_in_distribution_22
+Q:which statement matches finland and capital|O:lisbon;O:berlin;O:rome;O:helsinki;A	3	geography	geography_in_distribution_22
+Q:what answer fits finland and capital|O:helsinki;O:lisbon;O:paris;O:rome;A	0	geography	geography_in_distribution_22
+Q:which answer is associated with finland and capital|O:rome;O:helsinki;O:lisbon;O:berlin;A	1	geography	geography_in_distribution_22
+Q:select the answer for france and capital|O:madrid;O:lisbon;O:paris;O:london;A	2	geography	geography_in_distribution_23
+Q:which statement matches france and capital|O:rome;O:madrid;O:vienna;O:paris;A	3	geography	geography_in_distribution_23
+Q:what answer fits france and capital|O:paris;O:berlin;O:rome;O:london;A	0	geography	geography_in_distribution_23
+Q:which answer is associated with france and capital|O:london;O:paris;O:vienna;O:lisbon;A	1	geography	geography_in_distribution_23
+Q:which concept applies to france and capital|O:lisbon;O:berlin;O:paris;O:vienna;A	2	geography	geography_in_distribution_23
+Q:which statement matches germany and capital|O:lisbon;O:rome;O:paris;O:berlin;A	3	geography	geography_in_distribution_24
+Q:what answer fits germany and capital|O:berlin;O:lisbon;O:rome;O:madrid;A	0	geography	geography_in_distribution_24
+Q:which answer is associated with germany and capital|O:paris;O:berlin;O:madrid;O:lisbon;A	1	geography	geography_in_distribution_24
+Q:which concept applies to germany and capital|O:london;O:madrid;O:berlin;O:rome;A	2	geography	geography_in_distribution_24
+Q:identify the concept associated with germany and capital|O:vienna;O:paris;O:london;O:berlin;A	3	geography	geography_in_distribution_24
+Q:what answer fits ghana and capital|O:accra;O:berlin;O:rome;O:madrid;A	0	geography	geography_in_distribution_25
+Q:which answer is associated with ghana and capital|O:london;O:accra;O:madrid;O:paris;A	1	geography	geography_in_distribution_25
+Q:which concept applies to ghana and capital|O:madrid;O:london;O:accra;O:berlin;A	2	geography	geography_in_distribution_25
+Q:identify the concept associated with ghana and capital|O:berlin;O:rome;O:madrid;O:accra;A	3	geography	geography_in_distribution_25
+Q:for ghana which answer fits capital|O:accra;O:berlin;O:madrid;O:paris;A	0	geography	geography_in_distribution_25
+Q:which answer is associated with greece and capital|O:rome;O:athens;O:lisbon;O:berlin;A	1	geography	geography_in_distribution_26
+Q:which concept applies to greece and capital|O:berlin;O:lisbon;O:athens;O:paris;A	2	geography	geography_in_distribution_26
+Q:identify the concept associated with greece and capital|O:lisbon;O:madrid;O:berlin;O:athens;A	3	geography	geography_in_distribution_26
+Q:for greece which answer fits capital|O:athens;O:lisbon;O:rome;O:berlin;A	0	geography	geography_in_distribution_26
+Q:a question about greece and capital|O:madrid;O:athens;O:london;O:rome;A	1	geography	geography_in_distribution_26
+Q:which concept applies to hungary and capital|O:lisbon;O:rome;O:budapest;O:berlin;A	2	geography	geography_in_distribution_27
+Q:identify the concept associated with hungary and capital|O:berlin;O:madrid;O:london;O:budapest;A	3	geography	geography_in_distribution_27
+Q:for hungary which answer fits capital|O:budapest;O:rome;O:lisbon;O:paris;A	0	geography	geography_in_distribution_27
+Q:a question about hungary and capital|O:london;O:budapest;O:madrid;O:berlin;A	1	geography	geography_in_distribution_27
+Q:select the answer for hungary and capital|O:london;O:lisbon;O:budapest;O:madrid;A	2	geography	geography_in_distribution_27
+Q:identify the concept associated with iceland and capital|O:london;O:lisbon;O:berlin;O:reykjavik;A	3	geography	geography_in_distribution_28
+Q:for iceland which answer fits capital|O:reykjavik;O:lisbon;O:madrid;O:paris;A	0	geography	geography_in_distribution_28
+Q:a question about iceland and capital|O:paris;O:reykjavik;O:lisbon;O:london;A	1	geography	geography_in_distribution_28
+Q:select the answer for iceland and capital|O:lisbon;O:rome;O:reykjavik;O:berlin;A	2	geography	geography_in_distribution_28
+Q:which statement matches iceland and capital|O:berlin;O:madrid;O:paris;O:reykjavik;A	3	geography	geography_in_distribution_28
+Q:for india which answer fits capital|O:new delhi;O:berlin;O:lisbon;O:madrid;A	0	geography	geography_in_distribution_29
+Q:a question about india and capital|O:paris;O:new delhi;O:berlin;O:lisbon;A	1	geography	geography_in_distribution_29
+Q:select the answer for india and capital|O:berlin;O:london;O:new delhi;O:lisbon;A	2	geography	geography_in_distribution_29
+Q:which statement matches india and capital|O:lisbon;O:berlin;O:paris;O:new delhi;A	3	geography	geography_in_distribution_29
+Q:what answer fits india and capital|O:new delhi;O:berlin;O:rome;O:madrid;A	0	geography	geography_in_distribution_29
+Q:a question about indonesia and capital|O:paris;O:jakarta;O:rome;O:madrid;A	1	geography	geography_in_distribution_30
+Q:select the answer for indonesia and capital|O:berlin;O:madrid;O:jakarta;O:rome;A	2	geography	geography_in_distribution_30
+Q:which statement matches indonesia and capital|O:london;O:paris;O:lisbon;O:jakarta;A	3	geography	geography_in_distribution_30
+Q:what answer fits indonesia and capital|O:jakarta;O:lisbon;O:madrid;O:paris;A	0	geography	geography_in_distribution_30
+Q:which answer is associated with indonesia and capital|O:paris;O:jakarta;O:london;O:madrid;A	1	geography	geography_in_distribution_30
+Q:select the answer for ireland and capital|O:rome;O:madrid;O:dublin;O:berlin;A	2	geography	geography_in_distribution_31
+Q:which statement matches ireland and capital|O:madrid;O:berlin;O:rome;O:dublin;A	3	geography	geography_in_distribution_31
+Q:what answer fits ireland and capital|O:dublin;O:lisbon;O:madrid;O:paris;A	0	geography	geography_in_distribution_31
+Q:which answer is associated with ireland and capital|O:madrid;O:dublin;O:london;O:lisbon;A	1	geography	geography_in_distribution_31
+Q:which concept applies to ireland and capital|O:paris;O:london;O:dublin;O:madrid;A	2	geography	geography_in_distribution_31
+Q:which statement matches italy and capital|O:vienna;O:madrid;O:berlin;O:rome;A	3	geography	geography_in_distribution_32
+Q:what answer fits italy and capital|O:rome;O:madrid;O:paris;O:vienna;A	0	geography	geography_in_distribution_32
+Q:which answer is associated with italy and capital|O:berlin;O:rome;O:paris;O:vienna;A	1	geography	geography_in_distribution_32
+Q:which concept applies to italy and capital|O:madrid;O:paris;O:rome;O:london;A	2	geography	geography_in_distribution_32
+Q:identify the concept associated with italy and capital|O:madrid;O:vienna;O:london;O:rome;A	3	geography	geography_in_distribution_32
+Q:what answer fits japan and capital|O:tokyo;O:berlin;O:rome;O:madrid;A	0	geography	geography_in_distribution_33
+Q:which answer is associated with japan and capital|O:paris;O:tokyo;O:london;O:madrid;A	1	geography	geography_in_distribution_33
+Q:which concept applies to japan and capital|O:lisbon;O:paris;O:tokyo;O:berlin;A	2	geography	geography_in_distribution_33
+Q:identify the concept associated with japan and capital|O:madrid;O:paris;O:berlin;O:tokyo;A	3	geography	geography_in_distribution_33
+Q:for japan which answer fits capital|O:tokyo;O:lisbon;O:paris;O:rome;A	0	geography	geography_in_distribution_33
+Q:which answer is associated with kenya and capital|O:rome;O:nairobi;O:lisbon;O:paris;A	1	geography	geography_in_distribution_34
+Q:which concept applies to kenya and capital|O:berlin;O:rome;O:nairobi;O:paris;A	2	geography	geography_in_distribution_34
+Q:identify the concept associated with kenya and capital|O:rome;O:madrid;O:paris;O:nairobi;A	3	geography	geography_in_distribution_34
+Q:for kenya which answer fits capital|O:nairobi;O:london;O:berlin;O:paris;A	0	geography	geography_in_distribution_34
+Q:a question about kenya and capital|O:madrid;O:nairobi;O:berlin;O:paris;A	1	geography	geography_in_distribution_34
+Q:which concept applies to laos and capital|O:lisbon;O:rome;O:vientiane;O:london;A	2	geography	geography_in_distribution_35
+Q:identify the concept associated with laos and capital|O:madrid;O:rome;O:paris;O:vientiane;A	3	geography	geography_in_distribution_35
+Q:for laos which answer fits capital|O:vientiane;O:madrid;O:london;O:rome;A	0	geography	geography_in_distribution_35
+Q:a question about laos and capital|O:berlin;O:vientiane;O:lisbon;O:london;A	1	geography	geography_in_distribution_35
+Q:select the answer for laos and capital|O:rome;O:berlin;O:vientiane;O:lisbon;A	2	geography	geography_in_distribution_35
+Q:identify the concept associated with latvia and capital|O:lisbon;O:london;O:rome;O:riga;A	3	geography	geography_in_distribution_36
+Q:for latvia which answer fits capital|O:riga;O:madrid;O:paris;O:lisbon;A	0	geography	geography_in_distribution_36
+Q:a question about latvia and capital|O:madrid;O:riga;O:lisbon;O:paris;A	1	geography	geography_in_distribution_36
+Q:select the answer for latvia and capital|O:rome;O:london;O:riga;O:paris;A	2	geography	geography_in_distribution_36
+Q:which statement matches latvia and capital|O:london;O:lisbon;O:paris;O:riga;A	3	geography	geography_in_distribution_36
+Q:for lithuania which answer fits capital|O:vilnius;O:madrid;O:rome;O:london;A	0	geography	geography_in_distribution_37
+Q:a question about lithuania and capital|O:madrid;O:vilnius;O:paris;O:london;A	1	geography	geography_in_distribution_37
+Q:select the answer for lithuania and capital|O:lisbon;O:paris;O:vilnius;O:madrid;A	2	geography	geography_in_distribution_37
+Q:which statement matches lithuania and capital|O:rome;O:paris;O:london;O:vilnius;A	3	geography	geography_in_distribution_37
+Q:what answer fits lithuania and capital|O:vilnius;O:paris;O:madrid;O:london;A	0	geography	geography_in_distribution_37
+Q:a question about malaysia and capital|O:berlin;O:kuala lumpur;O:paris;O:rome;A	1	geography	geography_in_distribution_38
+Q:select the answer for malaysia and capital|O:madrid;O:paris;O:kuala lumpur;O:london;A	2	geography	geography_in_distribution_38
+Q:which statement matches malaysia and capital|O:paris;O:berlin;O:london;O:kuala lumpur;A	3	geography	geography_in_distribution_38
+Q:what answer fits malaysia and capital|O:kuala lumpur;O:london;O:berlin;O:paris;A	0	geography	geography_in_distribution_38
+Q:which answer is associated with malaysia and capital|O:paris;O:kuala lumpur;O:lisbon;O:berlin;A	1	geography	geography_in_distribution_38
+Q:select the answer for mexico and capital|O:london;O:rome;O:mexico city;O:lisbon;A	2	geography	geography_in_distribution_39
+Q:which statement matches mexico and capital|O:madrid;O:rome;O:paris;O:mexico city;A	3	geography	geography_in_distribution_39
+Q:what answer fits mexico and capital|O:mexico city;O:paris;O:madrid;O:london;A	0	geography	geography_in_distribution_39
+Q:which answer is associated with mexico and capital|O:berlin;O:mexico city;O:madrid;O:paris;A	1	geography	geography_in_distribution_39
+Q:which concept applies to mexico and capital|O:paris;O:london;O:mexico city;O:lisbon;A	2	geography	geography_in_distribution_39
+Q:which statement matches mongolia and capital|O:rome;O:london;O:paris;O:ulanbator;A	3	geography	geography_in_distribution_40
+Q:what answer fits mongolia and capital|O:ulanbator;O:berlin;O:madrid;O:paris;A	0	geography	geography_in_distribution_40
+Q:which answer is associated with mongolia and capital|O:berlin;O:ulanbator;O:paris;O:rome;A	1	geography	geography_in_distribution_40
+Q:which concept applies to mongolia and capital|O:paris;O:madrid;O:ulanbator;O:rome;A	2	geography	geography_in_distribution_40
+Q:identify the concept associated with mongolia and capital|O:lisbon;O:rome;O:berlin;O:ulanbator;A	3	geography	geography_in_distribution_40
+Q:what answer fits morocco and capital|O:rabat;O:berlin;O:lisbon;O:paris;A	0	geography	geography_in_distribution_41
+Q:which answer is associated with morocco and capital|O:lisbon;O:rabat;O:madrid;O:rome;A	1	geography	geography_in_distribution_41
+Q:which concept applies to morocco and capital|O:paris;O:madrid;O:rabat;O:berlin;A	2	geography	geography_in_distribution_41
+Q:identify the concept associated with morocco and capital|O:london;O:lisbon;O:rome;O:rabat;A	3	geography	geography_in_distribution_41
+Q:for morocco which answer fits capital|O:rabat;O:rome;O:madrid;O:london;A	0	geography	geography_in_distribution_41
+Q:which answer is associated with namibia and capital|O:lisbon;O:windhoek;O:london;O:berlin;A	1	geography	geography_in_distribution_42
+Q:which concept applies to namibia and capital|O:lisbon;O:london;O:windhoek;O:rome;A	2	geography	geography_in_distribution_42
+Q:identify the concept associated with namibia and capital|O:rome;O:paris;O:madrid;O:windhoek;A	3	geography	geography_in_distribution_42
+Q:for namibia which answer fits capital|O:windhoek;O:madrid;O:berlin;O:paris;A	0	geography	geography_in_distribution_42
+Q:a question about namibia and capital|O:london;O:windhoek;O:lisbon;O:rome;A	1	geography	geography_in_distribution_42
+Q:which concept applies to bolivia and capital|O:berlin;O:rome;O:sucre;O:madrid;A	2	geography	geography_in_distribution_43
+Q:identify the concept associated with bolivia and capital|O:madrid;O:lisbon;O:london;O:sucre;A	3	geography	geography_in_distribution_43
+Q:for bolivia which answer fits capital|O:sucre;O:lisbon;O:berlin;O:rome;A	0	geography	geography_in_distribution_43
+Q:a question about bolivia and capital|O:paris;O:sucre;O:madrid;O:rome;A	1	geography	geography_in_distribution_43
+Q:select the answer for bolivia and capital|O:lisbon;O:berlin;O:sucre;O:london;A	2	geography	geography_in_distribution_43
+Q:identify the concept associated with pakistan and capital|O:madrid;O:paris;O:lisbon;O:islamabad;A	3	geography	geography_in_distribution_44
+Q:for pakistan which answer fits capital|O:islamabad;O:lisbon;O:madrid;O:paris;A	0	geography	geography_in_distribution_44
+Q:a question about pakistan and capital|O:paris;O:islamabad;O:lisbon;O:london;A	1	geography	geography_in_distribution_44
+Q:select the answer for pakistan and capital|O:madrid;O:london;O:islamabad;O:paris;A	2	geography	geography_in_distribution_44
+Q:which statement matches pakistan and capital|O:rome;O:paris;O:lisbon;O:islamabad;A	3	geography	geography_in_distribution_44
+Q:for south korea which answer fits capital|O:seoul;O:lisbon;O:rome;O:berlin;A	0	geography	geography_in_distribution_45
+Q:a question about south korea and capital|O:berlin;O:seoul;O:madrid;O:rome;A	1	geography	geography_in_distribution_45
+Q:select the answer for south korea and capital|O:berlin;O:london;O:seoul;O:madrid;A	2	geography	geography_in_distribution_45
+Q:which statement matches south korea and capital|O:berlin;O:paris;O:lisbon;O:seoul;A	3	geography	geography_in_distribution_45
+Q:what answer fits south korea and capital|O:seoul;O:rome;O:madrid;O:london;A	0	geography	geography_in_distribution_45
+Q:a question about bangladesh and capital|O:rome;O:dhaka;O:madrid;O:berlin;A	1	geography	geography_in_distribution_46
+Q:select the answer for bangladesh and capital|O:london;O:berlin;O:dhaka;O:lisbon;A	2	geography	geography_in_distribution_46
+Q:which statement matches bangladesh and capital|O:paris;O:lisbon;O:london;O:dhaka;A	3	geography	geography_in_distribution_46
+Q:what answer fits bangladesh and capital|O:dhaka;O:rome;O:london;O:paris;A	0	geography	geography_in_distribution_46
+Q:which answer is associated with bangladesh and capital|O:lisbon;O:dhaka;O:berlin;O:rome;A	1	geography	geography_in_distribution_46
+Q:select the answer for madagascar and capital|O:madrid;O:lisbon;O:antananarivo;O:paris;A	2	geography	geography_in_distribution_47
+Q:which statement matches madagascar and capital|O:madrid;O:paris;O:lisbon;O:antananarivo;A	3	geography	geography_in_distribution_47
+Q:what answer fits madagascar and capital|O:antananarivo;O:berlin;O:madrid;O:lisbon;A	0	geography	geography_in_distribution_47
+Q:which answer is associated with madagascar and capital|O:berlin;O:antananarivo;O:london;O:rome;A	1	geography	geography_in_distribution_47
+Q:which concept applies to madagascar and capital|O:london;O:lisbon;O:antananarivo;O:paris;A	2	geography	geography_in_distribution_47
+Q:which statement matches suriname and capital|O:lisbon;O:london;O:paris;O:paramaribo;A	3	geography	geography_in_distribution_48
+Q:what answer fits suriname and capital|O:paramaribo;O:paris;O:madrid;O:berlin;A	0	geography	geography_in_distribution_48
+Q:which answer is associated with suriname and capital|O:london;O:paramaribo;O:paris;O:lisbon;A	1	geography	geography_in_distribution_48
+Q:which concept applies to suriname and capital|O:london;O:madrid;O:paramaribo;O:berlin;A	2	geography	geography_in_distribution_48
+Q:identify the concept associated with suriname and capital|O:lisbon;O:rome;O:madrid;O:paramaribo;A	3	geography	geography_in_distribution_48
+Q:what answer fits newtons first law and describes|O:inertia;O:average kinetic energy;O:attraction between masses;O:bending in medium;A	0	physics	physics_in_distribution_01
+Q:which answer is associated with newtons first law and describes|O:attraction between masses;O:inertia;O:bending in medium;O:bound charges;A	1	physics	physics_in_distribution_01
+Q:which concept applies to newtons first law and describes|O:bouncing from surface;O:attraction between masses;O:inertia;O:action reaction;A	2	physics	physics_in_distribution_01
+Q:identify the concept associated with newtons first law and describes|O:bound charges;O:bouncing from surface;O:bending in medium;O:inertia;A	3	physics	physics_in_distribution_01
+Q:for newtons first law which answer fits describes|O:inertia;O:average kinetic energy;O:bouncing from surface;O:attraction between masses;A	0	physics	physics_in_distribution_01
+Q:which answer is associated with newtons second law and relates|O:direct contact;O:force;O:cycles per second;O:decay time;A	1	physics	physics_in_distribution_02
+Q:which concept applies to newtons second law and relates|O:decay time;O:directed distance;O:force;O:cycles per second;A	2	physics	physics_in_distribution_02
+Q:identify the concept associated with newtons second law and relates|O:directed distance;O:charge per second;O:cycles per second;O:force;A	3	physics	physics_in_distribution_02
+Q:for newtons second law which answer fits relates|O:force;O:direct contact;O:cycles per second;O:directed distance;A	0	physics	physics_in_distribution_02
+Q:a question about newtons second law and relates|O:directed distance;O:force;O:direct contact;O:cycles per second;A	1	physics	physics_in_distribution_02
+Q:which concept applies to newtons third law and describes|O:energy dispersal;O:electromagnetic waves;O:action reaction;O:electric current;A	2	physics	physics_in_distribution_03
+Q:identify the concept associated with newtons third law and describes|O:electric current;O:distance between crests;O:energy per charge;O:action reaction;A	3	physics	physics_in_distribution_03
+Q:for newtons third law which answer fits describes|O:action reaction;O:fluid motion;O:distance between crests;O:energy per charge;A	0	physics	physics_in_distribution_03
+Q:a question about newtons third law and describes|O:fluid motion;O:action reaction;O:energy dispersal;O:distance between crests;A	1	physics	physics_in_distribution_03
+Q:select the answer for newtons third law and describes|O:electric current;O:energy dispersal;O:action reaction;O:distance between crests;A	2	physics	physics_in_distribution_03
+Q:identify the concept associated with acceleration and means|O:force displacement;O:frequency wavelength;O:force;O:rate of velocity change;A	3	physics	physics_in_distribution_04
+Q:for acceleration which answer fits means|O:rate of velocity change;O:force;O:force displacement;O:free moving charges;A	0	physics	physics_in_distribution_04
+Q:a question about acceleration and means|O:force per charge;O:rate of velocity change;O:force displacement;O:force gravity;A	1	physics	physics_in_distribution_04
+Q:select the answer for acceleration and means|O:force per charge;O:frequency wavelength;O:rate of velocity change;O:free moving charges;A	2	physics	physics_in_distribution_04
+Q:which statement matches acceleration and means|O:force;O:frequency wavelength;O:free moving charges;O:rate of velocity change;A	3	physics	physics_in_distribution_04
+Q:for momentum which answer fits means|O:mass velocity;O:material medium;O:mass gravity height;O:light quantum;A	0	physics	physics_in_distribution_05
+Q:a question about momentum and means|O:maximum displacement;O:mass velocity;O:mass gravity height;O:material medium;A	1	physics	physics_in_distribution_05
+Q:select the answer for momentum and means|O:light quantum;O:inertia;O:mass velocity;O:material medium;A	2	physics	physics_in_distribution_05
+Q:which statement matches momentum and means|O:maximum displacement;O:half mass velocity squared;O:mass gravity height;O:mass velocity;A	3	physics	physics_in_distribution_05
+Q:what answer fits momentum and means|O:mass velocity;O:inertia;O:maximum displacement;O:light quantum;A	0	physics	physics_in_distribution_05
+Q:a question about kinetic energy and means|O:negative charge;O:half mass velocity squared;O:net force zero;O:neutral charge;A	1	physics	physics_in_distribution_06
+Q:select the answer for kinetic energy and means|O:opposing motion;O:mass velocity;O:half mass velocity squared;O:moving charges;A	2	physics	physics_in_distribution_06
+Q:which statement matches kinetic energy and means|O:moving charges;O:negative charge;O:opposing motion;O:half mass velocity squared;A	3	physics	physics_in_distribution_06
+Q:what answer fits kinetic energy and means|O:half mass velocity squared;O:net force zero;O:moving charges;O:neutral charge;A	0	physics	physics_in_distribution_06
+Q:which answer is associated with kinetic energy and means|O:moving charges;O:half mass velocity squared;O:negative charge;O:net force zero;A	1	physics	physics_in_distribution_06
+Q:select the answer for gravitational potential energy and means|O:positive charge;O:same voltage;O:mass gravity height;O:same current;A	2	physics	physics_in_distribution_07
+Q:which statement matches gravitational potential energy and means|O:rate of velocity change;O:protons and neutrons;O:same current;O:mass gravity height;A	3	physics	physics_in_distribution_07
+Q:what answer fits gravitational potential energy and means|O:mass gravity height;O:rate of velocity change;O:protons and neutrons;O:positive charge;A	0	physics	physics_in_distribution_07
+Q:which answer is associated with gravitational potential energy and means|O:speed and direction;O:mass gravity height;O:positive charge;O:protons and neutrons;A	1	physics	physics_in_distribution_07
+Q:which concept applies to gravitational potential energy and means|O:protons and neutrons;O:same current;O:mass gravity height;O:same voltage;A	2	physics	physics_in_distribution_07
+Q:which statement matches power and means|O:cycles per second;O:vacuum;O:charge per second;O:work per time;A	3	physics	physics_in_distribution_08
+Q:what answer fits power and means|O:work per time;O:toward center;O:vacuum;O:transferred energy;A	0	physics	physics_in_distribution_08
+Q:which answer is associated with power and means|O:cycles per second;O:work per time;O:toward center;O:transferred energy;A	1	physics	physics_in_distribution_08
+Q:which concept applies to power and means|O:vacuum;O:charge per second;O:work per time;O:transferred energy;A	2	physics	physics_in_distribution_08
+Q:identify the concept associated with power and means|O:cycles per second;O:transferred energy;O:vacuum;O:work per time;A	3	physics	physics_in_distribution_08
+Q:what answer fits work and means|O:force displacement;O:directed distance;O:work per time;O:direct contact;A	0	physics	physics_in_distribution_09
+Q:which answer is associated with work and means|O:directed distance;O:force displacement;O:distance between crests;O:electric current;A	1	physics	physics_in_distribution_09
+Q:which concept applies to work and means|O:decay time;O:directed distance;O:force displacement;O:electric current;A	2	physics	physics_in_distribution_09
+Q:identify the concept associated with work and means|O:work per time;O:distance between crests;O:direct contact;O:force displacement;A	3	physics	physics_in_distribution_09
+Q:for work which answer fits means|O:force displacement;O:directed distance;O:distance between crests;O:decay time;A	0	physics	physics_in_distribution_09
+Q:which answer is associated with friction and acts as|O:force displacement;O:opposing motion;O:force;O:fluid motion;A	1	physics	physics_in_distribution_10
+Q:which concept applies to friction and acts as|O:force;O:energy per charge;O:opposing motion;O:electromagnetic waves;A	2	physics	physics_in_distribution_10
+Q:identify the concept associated with friction and acts as|O:fluid motion;O:electromagnetic waves;O:energy per charge;O:opposing motion;A	3	physics	physics_in_distribution_10
+Q:for friction which answer fits acts as|O:opposing motion;O:energy dispersal;O:energy per charge;O:force displacement;A	0	physics	physics_in_distribution_10
+Q:a question about friction and acts as|O:energy per charge;O:opposing motion;O:electromagnetic waves;O:energy dispersal;A	1	physics	physics_in_distribution_10
+Q:which concept applies to mass and measures|O:frequency wavelength;O:light quantum;O:inertia;O:force gravity;A	2	physics	physics_in_distribution_11
+Q:identify the concept associated with mass and measures|O:light quantum;O:free moving charges;O:force gravity;O:inertia;A	3	physics	physics_in_distribution_11
+Q:for mass which answer fits measures|O:inertia;O:light quantum;O:force gravity;O:frequency wavelength;A	0	physics	physics_in_distribution_11
+Q:a question about mass and measures|O:half mass velocity squared;O:inertia;O:frequency wavelength;O:free moving charges;A	1	physics	physics_in_distribution_11
+Q:select the answer for mass and measures|O:force per charge;O:frequency wavelength;O:inertia;O:light quantum;A	2	physics	physics_in_distribution_11
+Q:identify the concept associated with weight and means|O:material medium;O:moving charges;O:mass velocity;O:force gravity;A	3	physics	physics_in_distribution_12
+Q:for weight which answer fits means|O:force gravity;O:maximum displacement;O:mass gravity height;O:moving charges;A	0	physics	physics_in_distribution_12
+Q:a question about weight and means|O:material medium;O:force gravity;O:mass velocity;O:maximum displacement;A	1	physics	physics_in_distribution_12
+Q:select the answer for weight and means|O:mass gravity height;O:moving charges;O:force gravity;O:mass velocity;A	2	physics	physics_in_distribution_12
+Q:which statement matches weight and means|O:inertia;O:material medium;O:mass velocity;O:force gravity;A	3	physics	physics_in_distribution_12
+Q:for gravity which answer fits causes|O:attraction between masses;O:neutral charge;O:protons and neutrons;O:net force zero;A	0	physics	physics_in_distribution_13
+Q:a question about gravity and causes|O:net force zero;O:attraction between masses;O:neutral charge;O:negative charge;A	1	physics	physics_in_distribution_13
+Q:select the answer for gravity and causes|O:net force zero;O:neutral charge;O:attraction between masses;O:positive charge;A	2	physics	physics_in_distribution_13
+Q:which statement matches gravity and causes|O:neutral charge;O:positive charge;O:opposing motion;O:attraction between masses;A	3	physics	physics_in_distribution_13
+Q:what answer fits gravity and causes|O:attraction between masses;O:net force zero;O:protons and neutrons;O:opposing motion;A	0	physics	physics_in_distribution_13
+Q:a question about velocity and means|O:transferred energy;O:speed and direction;O:rate of velocity change;O:vacuum;A	1	physics	physics_in_distribution_14
+Q:select the answer for velocity and means|O:rate of velocity change;O:vacuum;O:speed and direction;O:same current;A	2	physics	physics_in_distribution_14
+Q:which statement matches velocity and means|O:transferred energy;O:same current;O:same voltage;O:speed and direction;A	3	physics	physics_in_distribution_14
+Q:what answer fits velocity and means|O:speed and direction;O:transferred energy;O:rate of velocity change;O:same current;A	0	physics	physics_in_distribution_14
+Q:which answer is associated with velocity and means|O:vacuum;O:speed and direction;O:same voltage;O:toward center;A	1	physics	physics_in_distribution_14
+Q:select the answer for displacement and means|O:voltage current resistance;O:work per time;O:directed distance;O:attraction between masses;A	2	physics	physics_in_distribution_15
+Q:which statement matches displacement and means|O:average kinetic energy;O:voltage current resistance;O:attraction between masses;O:directed distance;A	3	physics	physics_in_distribution_15
+Q:what answer fits displacement and means|O:directed distance;O:average kinetic energy;O:attraction between masses;O:voltage current resistance;A	0	physics	physics_in_distribution_15
+Q:which answer is associated with displacement and means|O:work per time;O:directed distance;O:attraction between masses;O:average kinetic energy;A	1	physics	physics_in_distribution_15
+Q:which concept applies to displacement and means|O:voltage current resistance;O:attraction between masses;O:directed distance;O:average kinetic energy;A	2	physics	physics_in_distribution_15
+Q:which statement matches impulse and means|O:fluid motion;O:bouncing from surface;O:bound charges;O:change in momentum;A	3	physics	physics_in_distribution_16
+Q:what answer fits impulse and means|O:change in momentum;O:energy dispersal;O:bound charges;O:bending in medium;A	0	physics	physics_in_distribution_16
+Q:which answer is associated with impulse and means|O:bending in medium;O:change in momentum;O:fluid motion;O:energy per charge;A	1	physics	physics_in_distribution_16
+Q:which concept applies to impulse and means|O:energy dispersal;O:bending in medium;O:change in momentum;O:energy per charge;A	2	physics	physics_in_distribution_16
+Q:identify the concept associated with impulse and means|O:bound charges;O:bouncing from surface;O:fluid motion;O:change in momentum;A	3	physics	physics_in_distribution_16
+Q:what answer fits equilibrium and requires|O:net force zero;O:force displacement;O:force gravity;O:force per charge;A	0	physics	physics_in_distribution_17
+Q:which answer is associated with equilibrium and requires|O:same voltage;O:net force zero;O:force gravity;O:force displacement;A	1	physics	physics_in_distribution_17
+Q:which concept applies to equilibrium and requires|O:force displacement;O:force;O:net force zero;O:same voltage;A	2	physics	physics_in_distribution_17
+Q:identify the concept associated with equilibrium and requires|O:same voltage;O:free moving charges;O:force displacement;O:net force zero;A	3	physics	physics_in_distribution_17
+Q:for equilibrium which answer fits requires|O:net force zero;O:free moving charges;O:force displacement;O:same voltage;A	0	physics	physics_in_distribution_17
+Q:which answer is associated with centripetal acceleration and points|O:inertia;O:toward center;O:half mass velocity squared;O:light quantum;A	1	physics	physics_in_distribution_18
+Q:which concept applies to centripetal acceleration and points|O:mass velocity;O:frequency wavelength;O:toward center;O:half mass velocity squared;A	2	physics	physics_in_distribution_18
+Q:identify the concept associated with centripetal acceleration and points|O:inertia;O:mass gravity height;O:frequency wavelength;O:toward center;A	3	physics	physics_in_distribution_18
+Q:for centripetal acceleration which answer fits points|O:toward center;O:mass gravity height;O:half mass velocity squared;O:frequency wavelength;A	0	physics	physics_in_distribution_18
+Q:a question about centripetal acceleration and points|O:inertia;O:toward center;O:half mass velocity squared;O:mass velocity;A	1	physics	physics_in_distribution_18
+Q:which concept applies to wavelength and means|O:negative charge;O:moving charges;O:distance between crests;O:material medium;A	2	physics	physics_in_distribution_19
+Q:identify the concept associated with wavelength and means|O:moving charges;O:neutral charge;O:negative charge;O:distance between crests;A	3	physics	physics_in_distribution_19
+Q:for wavelength which answer fits means|O:distance between crests;O:moving charges;O:neutral charge;O:negative charge;A	0	physics	physics_in_distribution_19
+Q:a question about wavelength and means|O:material medium;O:distance between crests;O:neutral charge;O:maximum displacement;A	1	physics	physics_in_distribution_19
+Q:select the answer for wavelength and means|O:negative charge;O:maximum displacement;O:distance between crests;O:moving charges;A	2	physics	physics_in_distribution_19
+Q:identify the concept associated with frequency and means|O:rate of velocity change;O:opposing motion;O:same voltage;O:cycles per second;A	3	physics	physics_in_distribution_20
+Q:for frequency which answer fits means|O:cycles per second;O:same current;O:opposing motion;O:positive charge;A	0	physics	physics_in_distribution_20
+Q:a question about frequency and means|O:opposing motion;O:cycles per second;O:protons and neutrons;O:same voltage;A	1	physics	physics_in_distribution_20
+Q:select the answer for frequency and means|O:opposing motion;O:same voltage;O:cycles per second;O:protons and neutrons;A	2	physics	physics_in_distribution_20
+Q:which statement matches frequency and means|O:positive charge;O:opposing motion;O:same voltage;O:cycles per second;A	3	physics	physics_in_distribution_20
+Q:for amplitude which answer fits means|O:maximum displacement;O:voltage current resistance;O:toward center;O:speed and direction;A	0	physics	physics_in_distribution_21
+Q:a question about amplitude and means|O:vacuum;O:maximum displacement;O:speed and direction;O:voltage current resistance;A	1	physics	physics_in_distribution_21
+Q:select the answer for amplitude and means|O:transferred energy;O:vacuum;O:maximum displacement;O:work per time;A	2	physics	physics_in_distribution_21
+Q:which statement matches amplitude and means|O:voltage current resistance;O:vacuum;O:speed and direction;O:maximum displacement;A	3	physics	physics_in_distribution_21
+Q:what answer fits amplitude and means|O:maximum displacement;O:vacuum;O:toward center;O:transferred energy;A	0	physics	physics_in_distribution_21
+Q:a question about wave speed and relates|O:average kinetic energy;O:frequency wavelength;O:attraction between masses;O:bending in medium;A	1	physics	physics_in_distribution_22
+Q:select the answer for wave speed and relates|O:bound charges;O:bouncing from surface;O:frequency wavelength;O:average kinetic energy;A	2	physics	physics_in_distribution_22
+Q:which statement matches wave speed and relates|O:bending in medium;O:action reaction;O:bound charges;O:frequency wavelength;A	3	physics	physics_in_distribution_22
+Q:what answer fits wave speed and relates|O:frequency wavelength;O:action reaction;O:bound charges;O:bouncing from surface;A	0	physics	physics_in_distribution_22
+Q:which answer is associated with wave speed and relates|O:bending in medium;O:frequency wavelength;O:action reaction;O:bouncing from surface;A	1	physics	physics_in_distribution_22
+Q:select the answer for sound and requires|O:decay time;O:change in momentum;O:material medium;O:charge per second;A	2	physics	physics_in_distribution_23
+Q:which statement matches sound and requires|O:change in momentum;O:cycles per second;O:decay time;O:material medium;A	3	physics	physics_in_distribution_23
+Q:what answer fits sound and requires|O:material medium;O:charge per second;O:decay time;O:direct contact;A	0	physics	physics_in_distribution_23
+Q:which answer is associated with sound and requires|O:directed distance;O:material medium;O:cycles per second;O:direct contact;A	1	physics	physics_in_distribution_23
+Q:which concept applies to sound and requires|O:cycles per second;O:directed distance;O:material medium;O:direct contact;A	2	physics	physics_in_distribution_23
+Q:which statement matches light and travels in|O:inertia;O:electric current;O:half mass velocity squared;O:vacuum;A	3	physics	physics_in_distribution_24
+Q:what answer fits light and travels in|O:vacuum;O:half mass velocity squared;O:inertia;O:electric current;A	0	physics	physics_in_distribution_24
+Q:which answer is associated with light and travels in|O:half mass velocity squared;O:vacuum;O:inertia;O:frequency wavelength;A	1	physics	physics_in_distribution_24
+Q:which concept applies to light and travels in|O:electric current;O:inertia;O:vacuum;O:frequency wavelength;A	2	physics	physics_in_distribution_24
+Q:identify the concept associated with light and travels in|O:half mass velocity squared;O:frequency wavelength;O:distance between crests;O:vacuum;A	3	physics	physics_in_distribution_24
+Q:what answer fits reflection and means|O:bouncing from surface;O:mass gravity height;O:material medium;O:maximum displacement;A	0	physics	physics_in_distribution_25
+Q:which answer is associated with reflection and means|O:maximum displacement;O:bouncing from surface;O:mass velocity;O:material medium;A	1	physics	physics_in_distribution_25
+Q:which concept applies to reflection and means|O:light quantum;O:maximum displacement;O:bouncing from surface;O:mass velocity;A	2	physics	physics_in_distribution_25
+Q:identify the concept associated with reflection and means|O:material medium;O:maximum displacement;O:mass gravity height;O:bouncing from surface;A	3	physics	physics_in_distribution_25
+Q:for reflection which answer fits means|O:bouncing from surface;O:light quantum;O:mass velocity;O:mass gravity height;A	0	physics	physics_in_distribution_25
+Q:which answer is associated with refraction and means|O:net force zero;O:bending in medium;O:positive charge;O:negative charge;A	1	physics	physics_in_distribution_26
+Q:which concept applies to refraction and means|O:negative charge;O:protons and neutrons;O:bending in medium;O:net force zero;A	2	physics	physics_in_distribution_26
+Q:identify the concept associated with refraction and means|O:net force zero;O:opposing motion;O:neutral charge;O:bending in medium;A	3	physics	physics_in_distribution_26
+Q:for refraction which answer fits means|O:bending in medium;O:net force zero;O:positive charge;O:negative charge;A	0	physics	physics_in_distribution_26
+Q:a question about refraction and means|O:neutral charge;O:bending in medium;O:opposing motion;O:positive charge;A	1	physics	physics_in_distribution_26
+Q:which concept applies to electric current and means|O:toward center;O:same voltage;O:charge per second;O:speed and direction;A	2	physics	physics_in_distribution_27
+Q:identify the concept associated with electric current and means|O:same current;O:rate of velocity change;O:transferred energy;O:charge per second;A	3	physics	physics_in_distribution_27
+Q:for electric current which answer fits means|O:charge per second;O:same current;O:transferred energy;O:speed and direction;A	0	physics	physics_in_distribution_27
+Q:a question about electric current and means|O:transferred energy;O:charge per second;O:rate of velocity change;O:toward center;A	1	physics	physics_in_distribution_27
+Q:select the answer for electric current and means|O:speed and direction;O:same current;O:charge per second;O:same voltage;A	2	physics	physics_in_distribution_27
+Q:identify the concept associated with voltage and means|O:vacuum;O:action reaction;O:attraction between masses;O:energy per charge;A	3	physics	physics_in_distribution_28
+Q:for voltage which answer fits means|O:energy per charge;O:average kinetic energy;O:work per time;O:vacuum;A	0	physics	physics_in_distribution_28
+Q:a question about voltage and means|O:average kinetic energy;O:energy per charge;O:voltage current resistance;O:attraction between masses;A	1	physics	physics_in_distribution_28
+Q:select the answer for voltage and means|O:vacuum;O:action reaction;O:energy per charge;O:voltage current resistance;A	2	physics	physics_in_distribution_28
+Q:which statement matches voltage and means|O:vacuum;O:voltage current resistance;O:action reaction;O:energy per charge;A	3	physics	physics_in_distribution_28
+Q:for resistance which answer fits opposes|O:electric current;O:bending in medium;O:charge per second;O:change in momentum;A	0	physics	physics_in_distribution_29
+Q:a question about resistance and opposes|O:cycles per second;O:electric current;O:bouncing from surface;O:bound charges;A	1	physics	physics_in_distribution_29
+Q:select the answer for resistance and opposes|O:charge per second;O:change in momentum;O:electric current;O:cycles per second;A	2	physics	physics_in_distribution_29
+Q:which statement matches resistance and opposes|O:change in momentum;O:charge per second;O:bending in medium;O:electric current;A	3	physics	physics_in_distribution_29
+Q:what answer fits resistance and opposes|O:electric current;O:bouncing from surface;O:cycles per second;O:bound charges;A	0	physics	physics_in_distribution_29
+Q:a question about ohms law and relates|O:directed distance;O:voltage current resistance;O:bending in medium;O:direct contact;A	1	physics	physics_in_distribution_30
+Q:select the answer for ohms law and relates|O:bending in medium;O:decay time;O:voltage current resistance;O:directed distance;A	2	physics	physics_in_distribution_30
+Q:which statement matches ohms law and relates|O:directed distance;O:decay time;O:electromagnetic waves;O:voltage current resistance;A	3	physics	physics_in_distribution_30
+Q:what answer fits ohms law and relates|O:voltage current resistance;O:distance between crests;O:decay time;O:direct contact;A	0	physics	physics_in_distribution_30
+Q:which answer is associated with ohms law and relates|O:electromagnetic waves;O:voltage current resistance;O:bending in medium;O:decay time;A	1	physics	physics_in_distribution_30
+Q:select the answer for series circuit and has|O:force displacement;O:energy per charge;O:same current;O:energy dispersal;A	2	physics	physics_in_distribution_31
+Q:which statement matches series circuit and has|O:energy per charge;O:energy dispersal;O:fluid motion;O:same current;A	3	physics	physics_in_distribution_31
+Q:what answer fits series circuit and has|O:same current;O:force;O:energy per charge;O:force gravity;A	0	physics	physics_in_distribution_31
+Q:which answer is associated with series circuit and has|O:force displacement;O:same current;O:fluid motion;O:energy dispersal;A	1	physics	physics_in_distribution_31
+Q:which concept applies to series circuit and has|O:fluid motion;O:energy dispersal;O:same current;O:force displacement;A	2	physics	physics_in_distribution_31
+Q:which statement matches parallel circuit and has|O:neutral charge;O:negative charge;O:free moving charges;O:same voltage;A	3	physics	physics_in_distribution_32
+Q:what answer fits parallel circuit and has|O:same voltage;O:moving charges;O:net force zero;O:neutral charge;A	0	physics	physics_in_distribution_32
+Q:which answer is associated with parallel circuit and has|O:neutral charge;O:same voltage;O:net force zero;O:force per charge;A	1	physics	physics_in_distribution_32
+Q:which concept applies to parallel circuit and has|O:free moving charges;O:negative charge;O:same voltage;O:force per charge;A	2	physics	physics_in_distribution_32
+Q:identify the concept associated with parallel circuit and has|O:net force zero;O:force per charge;O:free moving charges;O:same voltage;A	3	physics	physics_in_distribution_32
+Q:what answer fits conductor and contains|O:free moving charges;O:same current;O:same voltage;O:opposing motion;A	0	physics	physics_in_distribution_33
+Q:which answer is associated with conductor and contains|O:cycles per second;O:free moving charges;O:same voltage;O:vacuum;A	1	physics	physics_in_distribution_33
+Q:which concept applies to conductor and contains|O:same current;O:rate of velocity change;O:free moving charges;O:opposing motion;A	2	physics	physics_in_distribution_33
+Q:identify the concept associated with conductor and contains|O:opposing motion;O:same current;O:rate of velocity change;O:free moving charges;A	3	physics	physics_in_distribution_33
+Q:for conductor which answer fits contains|O:free moving charges;O:opposing motion;O:vacuum;O:same current;A	0	physics	physics_in_distribution_33
+Q:which answer is associated with insulator and contains|O:vacuum;O:bound charges;O:toward center;O:work per time;A	1	physics	physics_in_distribution_34
+Q:which concept applies to insulator and contains|O:transferred energy;O:speed and direction;O:bound charges;O:work per time;A	2	physics	physics_in_distribution_34
+Q:identify the concept associated with insulator and contains|O:transferred energy;O:toward center;O:vacuum;O:bound charges;A	3	physics	physics_in_distribution_34
+Q:for insulator which answer fits contains|O:bound charges;O:vacuum;O:transferred energy;O:voltage current resistance;A	0	physics	physics_in_distribution_34
+Q:a question about insulator and contains|O:toward center;O:bound charges;O:voltage current resistance;O:transferred energy;A	1	physics	physics_in_distribution_34
+Q:which concept applies to electric field and means|O:average kinetic energy;O:bending in medium;O:force per charge;O:attraction between masses;A	2	physics	physics_in_distribution_35
+Q:identify the concept associated with electric field and means|O:average kinetic energy;O:bouncing from surface;O:attraction between masses;O:force per charge;A	3	physics	physics_in_distribution_35
+Q:for electric field which answer fits means|O:force per charge;O:attraction between masses;O:bouncing from surface;O:bound charges;A	0	physics	physics_in_distribution_35
+Q:a question about electric field and means|O:action reaction;O:force per charge;O:bending in medium;O:attraction between masses;A	1	physics	physics_in_distribution_35
+Q:select the answer for electric field and means|O:action reaction;O:bound charges;O:force per charge;O:average kinetic energy;A	2	physics	physics_in_distribution_35
+Q:identify the concept associated with magnetic field and comes from|O:cycles per second;O:directed distance;O:change in momentum;O:moving charges;A	3	physics	physics_in_distribution_36
+Q:for magnetic field which answer fits comes from|O:moving charges;O:change in momentum;O:directed distance;O:decay time;A	0	physics	physics_in_distribution_36
+Q:a question about magnetic field and comes from|O:direct contact;O:moving charges;O:cycles per second;O:directed distance;A	1	physics	physics_in_distribution_36
+Q:select the answer for magnetic field and comes from|O:direct contact;O:decay time;O:moving charges;O:cycles per second;A	2	physics	physics_in_distribution_36
+Q:which statement matches magnetic field and comes from|O:directed distance;O:change in momentum;O:direct contact;O:moving charges;A	3	physics	physics_in_distribution_36
+Q:for electron which answer fits has|O:negative charge;O:distance between crests;O:energy dispersal;O:electromagnetic waves;A	0	physics	physics_in_distribution_37
+Q:a question about electron and has|O:distance between crests;O:negative charge;O:electromagnetic waves;O:energy dispersal;A	1	physics	physics_in_distribution_37
+Q:select the answer for electron and has|O:electric current;O:electromagnetic waves;O:negative charge;O:fluid motion;A	2	physics	physics_in_distribution_37
+Q:which statement matches electron and has|O:energy per charge;O:distance between crests;O:electric current;O:negative charge;A	3	physics	physics_in_distribution_37
+Q:what answer fits electron and has|O:negative charge;O:electromagnetic waves;O:electric current;O:energy per charge;A	0	physics	physics_in_distribution_37
+Q:a question about atomic nucleus and contains|O:force per charge;O:protons and neutrons;O:force;O:free moving charges;A	1	physics	physics_in_distribution_38
+Q:select the answer for atomic nucleus and contains|O:free moving charges;O:force gravity;O:protons and neutrons;O:force displacement;A	2	physics	physics_in_distribution_38
+Q:which statement matches atomic nucleus and contains|O:frequency wavelength;O:force gravity;O:force displacement;O:protons and neutrons;A	3	physics	physics_in_distribution_38
+Q:what answer fits atomic nucleus and contains|O:protons and neutrons;O:force displacement;O:free moving charges;O:frequency wavelength;A	0	physics	physics_in_distribution_38
+Q:which answer is associated with atomic nucleus and contains|O:force per charge;O:protons and neutrons;O:force gravity;O:force;A	1	physics	physics_in_distribution_38
+Q:select the answer for proton and has|O:material medium;O:light quantum;O:positive charge;O:mass gravity height;A	2	physics	physics_in_distribution_39
+Q:which statement matches proton and has|O:mass velocity;O:half mass velocity squared;O:mass gravity height;O:positive charge;A	3	physics	physics_in_distribution_39
+Q:what answer fits proton and has|O:positive charge;O:light quantum;O:inertia;O:mass velocity;A	0	physics	physics_in_distribution_39
+Q:which answer is associated with proton and has|O:mass gravity height;O:positive charge;O:mass velocity;O:material medium;A	1	physics	physics_in_distribution_39
+Q:which concept applies to proton and has|O:mass velocity;O:inertia;O:positive charge;O:light quantum;A	2	physics	physics_in_distribution_39
+Q:which statement matches neutron and has|O:transferred energy;O:same current;O:toward center;O:neutral charge;A	3	physics	physics_in_distribution_40
+Q:what answer fits neutron and has|O:neutral charge;O:same current;O:transferred energy;O:same voltage;A	0	physics	physics_in_distribution_40
+Q:which answer is associated with neutron and has|O:transferred energy;O:neutral charge;O:same current;O:speed and direction;A	1	physics	physics_in_distribution_40
+Q:which concept applies to neutron and has|O:toward center;O:maximum displacement;O:neutral charge;O:same current;A	2	physics	physics_in_distribution_40
+Q:identify the concept associated with neutron and has|O:same voltage;O:toward center;O:transferred energy;O:neutral charge;A	3	physics	physics_in_distribution_40
+Q:what answer fits half life and means|O:decay time;O:work per time;O:vacuum;O:attraction between masses;A	0	physics	physics_in_distribution_41
+Q:which answer is associated with half life and means|O:average kinetic energy;O:decay time;O:voltage current resistance;O:vacuum;A	1	physics	physics_in_distribution_41
+Q:which concept applies to half life and means|O:work per time;O:average kinetic energy;O:decay time;O:attraction between masses;A	2	physics	physics_in_distribution_41
+Q:identify the concept associated with half life and means|O:action reaction;O:vacuum;O:voltage current resistance;O:decay time;A	3	physics	physics_in_distribution_41
+Q:for half life which answer fits means|O:decay time;O:work per time;O:average kinetic energy;O:action reaction;A	0	physics	physics_in_distribution_41
+Q:which answer is associated with photon and means|O:cycles per second;O:light quantum;O:change in momentum;O:bound charges;A	1	physics	physics_in_distribution_42
+Q:which concept applies to photon and means|O:bound charges;O:change in momentum;O:light quantum;O:bending in medium;A	2	physics	physics_in_distribution_42
+Q:identify the concept associated with photon and means|O:cycles per second;O:bending in medium;O:charge per second;O:light quantum;A	3	physics	physics_in_distribution_42
+Q:for photon which answer fits means|O:light quantum;O:bending in medium;O:bouncing from surface;O:change in momentum;A	0	physics	physics_in_distribution_42
+Q:a question about photon and means|O:bending in medium;O:light quantum;O:change in momentum;O:cycles per second;A	1	physics	physics_in_distribution_42
+Q:which concept applies to temperature and measures|O:electromagnetic waves;O:direct contact;O:average kinetic energy;O:decay time;A	2	physics	physics_in_distribution_43
+Q:identify the concept associated with temperature and measures|O:decay time;O:direct contact;O:electric current;O:average kinetic energy;A	3	physics	physics_in_distribution_43
+Q:for temperature which answer fits measures|O:average kinetic energy;O:electric current;O:direct contact;O:electromagnetic waves;A	0	physics	physics_in_distribution_43
+Q:a question about temperature and measures|O:electric current;O:average kinetic energy;O:distance between crests;O:decay time;A	1	physics	physics_in_distribution_43
+Q:select the answer for temperature and measures|O:electromagnetic waves;O:distance between crests;O:average kinetic energy;O:directed distance;A	2	physics	physics_in_distribution_43
+Q:identify the concept associated with heat and means|O:force;O:fluid motion;O:force displacement;O:transferred energy;A	3	physics	physics_in_distribution_44
+Q:for heat which answer fits means|O:transferred energy;O:energy dispersal;O:energy per charge;O:fluid motion;A	0	physics	physics_in_distribution_44
+Q:a question about heat and means|O:energy dispersal;O:transferred energy;O:fluid motion;O:energy per charge;A	1	physics	physics_in_distribution_44
+Q:select the answer for heat and means|O:force displacement;O:force;O:transferred energy;O:force gravity;A	2	physics	physics_in_distribution_44
+Q:which statement matches heat and means|O:force gravity;O:force;O:fluid motion;O:transferred energy;A	3	physics	physics_in_distribution_44
+Q:for conduction which answer fits transfers heat by|O:direct contact;O:force per charge;O:inertia;O:half mass velocity squared;A	0	physics	physics_in_distribution_45
+Q:a question about conduction and transfers heat by|O:light quantum;O:direct contact;O:vacuum;O:frequency wavelength;A	1	physics	physics_in_distribution_45
+Q:select the answer for conduction and transfers heat by|O:inertia;O:frequency wavelength;O:direct contact;O:half mass velocity squared;A	2	physics	physics_in_distribution_45
+Q:which statement matches conduction and transfers heat by|O:frequency wavelength;O:light quantum;O:vacuum;O:direct contact;A	3	physics	physics_in_distribution_45
+Q:what answer fits conduction and transfers heat by|O:direct contact;O:vacuum;O:frequency wavelength;O:half mass velocity squared;A	0	physics	physics_in_distribution_45
+Q:a question about convection and transfers heat by|O:cycles per second;O:fluid motion;O:mass gravity height;O:mass velocity;A	1	physics	physics_in_distribution_46
+Q:select the answer for convection and transfers heat by|O:cycles per second;O:mass velocity;O:fluid motion;O:negative charge;A	2	physics	physics_in_distribution_46
+Q:which statement matches convection and transfers heat by|O:cycles per second;O:maximum displacement;O:moving charges;O:fluid motion;A	3	physics	physics_in_distribution_46
+Q:what answer fits convection and transfers heat by|O:fluid motion;O:mass gravity height;O:mass velocity;O:negative charge;A	0	physics	physics_in_distribution_46
+Q:which answer is associated with convection and transfers heat by|O:mass velocity;O:fluid motion;O:maximum displacement;O:cycles per second;A	1	physics	physics_in_distribution_46
+Q:select the answer for radiation and transfers energy by|O:positive charge;O:rate of velocity change;O:electromagnetic waves;O:protons and neutrons;A	2	physics	physics_in_distribution_47
+Q:which statement matches radiation and transfers energy by|O:net force zero;O:neutral charge;O:positive charge;O:electromagnetic waves;A	3	physics	physics_in_distribution_47
+Q:what answer fits radiation and transfers energy by|O:electromagnetic waves;O:protons and neutrons;O:neutral charge;O:rate of velocity change;A	0	physics	physics_in_distribution_47
+Q:which answer is associated with radiation and transfers energy by|O:neutral charge;O:electromagnetic waves;O:positive charge;O:opposing motion;A	1	physics	physics_in_distribution_47
+Q:which concept applies to radiation and transfers energy by|O:positive charge;O:opposing motion;O:electromagnetic waves;O:net force zero;A	2	physics	physics_in_distribution_47
+Q:which statement matches entropy and measures|O:bouncing from surface;O:action reaction;O:average kinetic energy;O:energy dispersal;A	3	physics	physics_in_distribution_48
+Q:what answer fits entropy and measures|O:energy dispersal;O:bending in medium;O:bound charges;O:average kinetic energy;A	0	physics	physics_in_distribution_48
+Q:which answer is associated with entropy and measures|O:action reaction;O:energy dispersal;O:bound charges;O:attraction between masses;A	1	physics	physics_in_distribution_48
+Q:which concept applies to entropy and measures|O:bending in medium;O:attraction between masses;O:energy dispersal;O:average kinetic energy;A	2	physics	physics_in_distribution_48
+Q:identify the concept associated with entropy and measures|O:average kinetic energy;O:bouncing from surface;O:bound charges;O:energy dispersal;A	3	physics	physics_in_distribution_48
+Q:what answer fits stack and follows|O:last in first out;O:deception;O:base case;O:at runtime;A	0	computer_science	computer_science_in_distribution_01
+Q:which answer is associated with stack and follows|O:base case;O:last in first out;O:circular wait;O:disk extension;A	1	computer_science	computer_science_in_distribution_01
+Q:which concept applies to stack and follows|O:confidentiality;O:at runtime;O:last in first out;O:deception;A	2	computer_science	computer_science_in_distribution_01
+Q:identify the concept associated with stack and follows|O:at runtime;O:circular wait;O:disk extension;O:last in first out;A	3	computer_science	computer_science_in_distribution_01
+Q:for stack which answer fits follows|O:last in first out;O:disk extension;O:at runtime;O:circular wait;A	0	computer_science	computer_science_in_distribution_01
+Q:which answer is associated with queue and follows|O:growth rate;O:first in first out;O:fast storage;O:execution stream;A	1	computer_science	computer_science_in_distribution_02
+Q:which concept applies to queue and follows|O:files and directories;O:fast storage;O:first in first out;O:fixed digest;A	2	computer_science	computer_science_in_distribution_02
+Q:identify the concept associated with queue and follows|O:divide and conquer;O:fast storage;O:fixed digest;O:first in first out;A	3	computer_science	computer_science_in_distribution_02
+Q:for queue which answer fits follows|O:first in first out;O:fixed digest;O:fast storage;O:execution stream;A	0	computer_science	computer_science_in_distribution_02
+Q:a question about queue and follows|O:files and directories;O:first in first out;O:execution stream;O:fast storage;A	1	computer_science	computer_science_in_distribution_02
+Q:which concept applies to array and uses|O:hierarchy;O:first in first out;O:indexed storage;O:keys to values;A	2	computer_science	computer_science_in_distribution_03
+Q:identify the concept associated with array and uses|O:last in first out;O:identity;O:first in first out;O:indexed storage;A	3	computer_science	computer_science_in_distribution_03
+Q:for array which answer fits uses|O:indexed storage;O:identity;O:hierarchy;O:last in first out;A	0	computer_science	computer_science_in_distribution_03
+Q:a question about array and uses|O:keys to values;O:indexed storage;O:last in first out;O:first in first out;A	1	computer_science	computer_science_in_distribution_03
+Q:select the answer for array and uses|O:hierarchy;O:first in first out;O:indexed storage;O:keys to values;A	2	computer_science	computer_science_in_distribution_03
+Q:identify the concept associated with linked list and uses|O:network addressing;O:object blueprint;O:names to addresses;O:node pointers;A	3	computer_science	computer_science_in_distribution_04
+Q:for linked list which answer fits uses|O:node pointers;O:network traffic;O:names to addresses;O:network addressing;A	0	computer_science	computer_science_in_distribution_04
+Q:a question about linked list and uses|O:network traffic;O:node pointers;O:object blueprint;O:names to addresses;A	1	computer_science	computer_science_in_distribution_04
+Q:select the answer for linked list and uses|O:network addressing;O:network traffic;O:node pointers;O:object blueprint;A	2	computer_science	computer_science_in_distribution_04
+Q:which statement matches linked list and uses|O:network addressing;O:network traffic;O:os core;O:node pointers;A	3	computer_science	computer_science_in_distribution_04
+Q:for binary search which answer fits requires|O:sorted data;O:priority access;O:program execution;O:node pointers;A	0	computer_science	computer_science_in_distribution_05
+Q:a question about binary search and requires|O:program execution;O:sorted data;O:permission;O:queue;A	1	computer_science	computer_science_in_distribution_05
+Q:select the answer for binary search and requires|O:permission;O:queue;O:sorted data;O:partitioning;A	2	computer_science	computer_science_in_distribution_05
+Q:which statement matches binary search and requires|O:queue;O:permission;O:program execution;O:sorted data;A	3	computer_science	computer_science_in_distribution_05
+Q:what answer fits binary search and requires|O:sorted data;O:node pointers;O:permission;O:partitioning;A	0	computer_science	computer_science_in_distribution_05
+Q:a question about hash table and maps|O:sorted data;O:keys to values;O:repetition;O:relational data;A	1	computer_science	computer_science_in_distribution_06
+Q:select the answer for hash table and maps|O:reliable delivery;O:sorted data;O:keys to values;O:repetition;A	2	computer_science	computer_science_in_distribution_06
+Q:which statement matches hash table and maps|O:software interface;O:relational data;O:repetition;O:keys to values;A	3	computer_science	computer_science_in_distribution_06
+Q:what answer fits hash table and maps|O:keys to values;O:reusable code;O:repetition;O:relational data;A	0	computer_science	computer_science_in_distribution_06
+Q:which answer is associated with hash table and maps|O:sorted data;O:keys to values;O:reliable delivery;O:relational data;A	1	computer_science	computer_science_in_distribution_06
+Q:select the answer for tree and represents|O:stored value;O:source code;O:hierarchy;O:structured records;A	2	computer_science	computer_science_in_distribution_07
+Q:which statement matches tree and represents|O:source code;O:structured records;O:synchronization;O:hierarchy;A	3	computer_science	computer_science_in_distribution_07
+Q:what answer fits tree and represents|O:hierarchy;O:stack;O:stored value;O:synchronization;A	0	computer_science	computer_science_in_distribution_07
+Q:which answer is associated with tree and represents|O:stack;O:hierarchy;O:table relationship;O:stored value;A	1	computer_science	computer_science_in_distribution_07
+Q:which concept applies to tree and represents|O:stored value;O:synchronization;O:hierarchy;O:stack;A	2	computer_science	computer_science_in_distribution_07
+Q:which statement matches graph and contains|O:execution stream;O:web communication;O:two children;O:vertices and edges;A	3	computer_science	computer_science_in_distribution_08
+Q:what answer fits graph and contains|O:vertices and edges;O:execution stream;O:web communication;O:two children;A	0	computer_science	computer_science_in_distribution_08
+Q:which answer is associated with graph and contains|O:execution stream;O:vertices and edges;O:version control;O:true or false;A	1	computer_science	computer_science_in_distribution_08
+Q:which concept applies to graph and contains|O:web communication;O:unique row;O:vertices and edges;O:version control;A	2	computer_science	computer_science_in_distribution_08
+Q:identify the concept associated with graph and contains|O:version control;O:true or false;O:web communication;O:vertices and edges;A	3	computer_science	computer_science_in_distribution_08
+Q:what answer fits breadth first search and uses|O:queue;O:files and directories;O:object blueprint;O:fixed digest;A	0	computer_science	computer_science_in_distribution_09
+Q:which answer is associated with breadth first search and uses|O:two children;O:queue;O:fast storage;O:growth rate;A	1	computer_science	computer_science_in_distribution_09
+Q:which concept applies to breadth first search and uses|O:fixed digest;O:files and directories;O:queue;O:object blueprint;A	2	computer_science	computer_science_in_distribution_09
+Q:identify the concept associated with breadth first search and uses|O:two children;O:fixed digest;O:object blueprint;O:queue;A	3	computer_science	computer_science_in_distribution_09
+Q:for breadth first search which answer fits uses|O:queue;O:fixed digest;O:two children;O:fast storage;A	0	computer_science	computer_science_in_distribution_09
+Q:which answer is associated with depth first search and uses|O:indexed storage;O:stack;O:keys to values;O:object blueprint;A	1	computer_science	computer_science_in_distribution_10
+Q:which concept applies to depth first search and uses|O:object blueprint;O:indexed storage;O:stack;O:low overhead delivery;A	2	computer_science	computer_science_in_distribution_10
+Q:identify the concept associated with depth first search and uses|O:low overhead delivery;O:object blueprint;O:indexed storage;O:stack;A	3	computer_science	computer_science_in_distribution_10
+Q:for depth first search which answer fits uses|O:stack;O:low overhead delivery;O:identity;O:web communication;A	0	computer_science	computer_science_in_distribution_10
+Q:a question about depth first search and uses|O:indexed storage;O:stack;O:web communication;O:keys to values;A	1	computer_science	computer_science_in_distribution_10
+Q:which concept applies to recursion and requires|O:network addressing;O:node pointers;O:base case;O:network traffic;A	2	computer_science	computer_science_in_distribution_11
+Q:identify the concept associated with recursion and requires|O:network traffic;O:object blueprint;O:network addressing;O:base case;A	3	computer_science	computer_science_in_distribution_11
+Q:for recursion which answer fits requires|O:base case;O:object blueprint;O:node pointers;O:os core;A	0	computer_science	computer_science_in_distribution_11
+Q:a question about recursion and requires|O:names to addresses;O:base case;O:os core;O:node pointers;A	1	computer_science	computer_science_in_distribution_11
+Q:select the answer for recursion and requires|O:network traffic;O:node pointers;O:base case;O:network addressing;A	2	computer_science	computer_science_in_distribution_11
+Q:identify the concept associated with merge sort and uses|O:queue;O:program execution;O:priority access;O:divide and conquer;A	3	computer_science	computer_science_in_distribution_12
+Q:for merge sort which answer fits uses|O:divide and conquer;O:program execution;O:confidentiality;O:relational data;A	0	computer_science	computer_science_in_distribution_12
+Q:a question about merge sort and uses|O:priority access;O:divide and conquer;O:queue;O:confidentiality;A	1	computer_science	computer_science_in_distribution_12
+Q:select the answer for merge sort and uses|O:priority access;O:queue;O:divide and conquer;O:program execution;A	2	computer_science	computer_science_in_distribution_12
+Q:which statement matches merge sort and uses|O:confidentiality;O:queue;O:program execution;O:divide and conquer;A	3	computer_science	computer_science_in_distribution_12
+Q:for quick sort which answer fits uses|O:partitioning;O:software interface;O:reliable delivery;O:source code;A	0	computer_science	computer_science_in_distribution_13
+Q:a question about quick sort and uses|O:source code;O:partitioning;O:sorted data;O:reusable code;A	1	computer_science	computer_science_in_distribution_13
+Q:select the answer for quick sort and uses|O:sorted data;O:reusable code;O:partitioning;O:source code;A	2	computer_science	computer_science_in_distribution_13
+Q:which statement matches quick sort and uses|O:reliable delivery;O:source code;O:sorted data;O:partitioning;A	3	computer_science	computer_science_in_distribution_13
+Q:what answer fits quick sort and uses|O:partitioning;O:software interface;O:source code;O:reusable code;A	0	computer_science	computer_science_in_distribution_13
+Q:a question about big notation and describes|O:true or false;O:growth rate;O:stored value;O:synchronization;A	1	computer_science	computer_science_in_distribution_14
+Q:select the answer for big notation and describes|O:structured records;O:table relationship;O:growth rate;O:true or false;A	2	computer_science	computer_science_in_distribution_14
+Q:which statement matches big notation and describes|O:table relationship;O:true or false;O:synchronization;O:growth rate;A	3	computer_science	computer_science_in_distribution_14
+Q:what answer fits big notation and describes|O:growth rate;O:stored value;O:stack;O:synchronization;A	0	computer_science	computer_science_in_distribution_14
+Q:which answer is associated with big notation and describes|O:synchronization;O:growth rate;O:true or false;O:stored value;A	1	computer_science	computer_science_in_distribution_14
+Q:select the answer for binary tree and allows|O:version control;O:network traffic;O:two children;O:fixed digest;A	2	computer_science	computer_science_in_distribution_15
+Q:which statement matches binary tree and allows|O:at runtime;O:network traffic;O:fixed digest;O:two children;A	3	computer_science	computer_science_in_distribution_15
+Q:what answer fits binary tree and allows|O:two children;O:base case;O:network traffic;O:fixed digest;A	0	computer_science	computer_science_in_distribution_15
+Q:which answer is associated with binary tree and allows|O:unique row;O:two children;O:version control;O:fixed digest;A	1	computer_science	computer_science_in_distribution_15
+Q:which concept applies to binary tree and allows|O:network traffic;O:base case;O:two children;O:fixed digest;A	2	computer_science	computer_science_in_distribution_15
+Q:which statement matches heap and supports|O:fast storage;O:divide and conquer;O:circular wait;O:priority access;A	3	computer_science	computer_science_in_distribution_16
+Q:what answer fits heap and supports|O:priority access;O:disk extension;O:deception;O:confidentiality;A	0	computer_science	computer_science_in_distribution_16
+Q:which answer is associated with heap and supports|O:disk extension;O:priority access;O:deception;O:fast storage;A	1	computer_science	computer_science_in_distribution_16
+Q:which concept applies to heap and supports|O:confidentiality;O:circular wait;O:priority access;O:divide and conquer;A	2	computer_science	computer_science_in_distribution_16
+Q:identify the concept associated with heap and supports|O:deception;O:disk extension;O:divide and conquer;O:priority access;A	3	computer_science	computer_science_in_distribution_16
+Q:what answer fits database and stores|O:structured records;O:fixed digest;O:names to addresses;O:deception;A	0	computer_science	computer_science_in_distribution_17
+Q:which answer is associated with database and stores|O:low overhead delivery;O:structured records;O:names to addresses;O:fixed digest;A	1	computer_science	computer_science_in_distribution_17
+Q:which concept applies to database and stores|O:last in first out;O:low overhead delivery;O:structured records;O:names to addresses;A	2	computer_science	computer_science_in_distribution_17
+Q:identify the concept associated with database and stores|O:names to addresses;O:deception;O:last in first out;O:structured records;A	3	computer_science	computer_science_in_distribution_17
+Q:for database which answer fits stores|O:structured records;O:deception;O:names to addresses;O:low overhead delivery;A	0	computer_science	computer_science_in_distribution_17
+Q:which answer is associated with primary key and identifies|O:object blueprint;O:unique row;O:partitioning;O:permission;A	1	computer_science	computer_science_in_distribution_18
+Q:which concept applies to primary key and identifies|O:object blueprint;O:permission;O:unique row;O:priority access;A	2	computer_science	computer_science_in_distribution_18
+Q:identify the concept associated with primary key and identifies|O:node pointers;O:priority access;O:permission;O:unique row;A	3	computer_science	computer_science_in_distribution_18
+Q:for primary key which answer fits identifies|O:unique row;O:object blueprint;O:partitioning;O:priority access;A	0	computer_science	computer_science_in_distribution_18
+Q:a question about primary key and identifies|O:partitioning;O:unique row;O:os core;O:object blueprint;A	1	computer_science	computer_science_in_distribution_18
+Q:which concept applies to foreign key and represents|O:repetition;O:reliable delivery;O:table relationship;O:reusable code;A	2	computer_science	computer_science_in_distribution_19
+Q:identify the concept associated with foreign key and represents|O:reusable code;O:repetition;O:circular wait;O:table relationship;A	3	computer_science	computer_science_in_distribution_19
+Q:for foreign key which answer fits represents|O:table relationship;O:repetition;O:queue;O:reusable code;A	0	computer_science	computer_science_in_distribution_19
+Q:a question about foreign key and represents|O:circular wait;O:table relationship;O:repetition;O:reliable delivery;A	1	computer_science	computer_science_in_distribution_19
+Q:select the answer for foreign key and represents|O:queue;O:reusable code;O:table relationship;O:repetition;A	2	computer_science	computer_science_in_distribution_19
+Q:identify the concept associated with cache and provides|O:sorted data;O:software interface;O:stored value;O:fast storage;A	3	computer_science	computer_science_in_distribution_20
+Q:for cache which answer fits provides|O:fast storage;O:stack;O:software interface;O:stored value;A	0	computer_science	computer_science_in_distribution_20
+Q:a question about cache and provides|O:sorted data;O:fast storage;O:software interface;O:stack;A	1	computer_science	computer_science_in_distribution_20
+Q:select the answer for cache and provides|O:structured records;O:stored value;O:fast storage;O:stack;A	2	computer_science	computer_science_in_distribution_20
+Q:which statement matches cache and provides|O:sorted data;O:stored value;O:stack;O:fast storage;A	3	computer_science	computer_science_in_distribution_20
+Q:for process which answer fits means|O:program execution;O:true or false;O:unique row;O:version control;A	0	computer_science	computer_science_in_distribution_21
+Q:a question about process and means|O:two children;O:program execution;O:version control;O:unique row;A	1	computer_science	computer_science_in_distribution_21
+Q:select the answer for process and means|O:table relationship;O:unique row;O:program execution;O:synchronization;A	2	computer_science	computer_science_in_distribution_21
+Q:which statement matches process and means|O:true or false;O:synchronization;O:version control;O:program execution;A	3	computer_science	computer_science_in_distribution_21
+Q:what answer fits process and means|O:program execution;O:version control;O:table relationship;O:unique row;A	0	computer_science	computer_science_in_distribution_21
+Q:a question about thread and means|O:circular wait;O:execution stream;O:at runtime;O:web communication;A	1	computer_science	computer_science_in_distribution_22
+Q:select the answer for thread and means|O:circular wait;O:base case;O:execution stream;O:confidentiality;A	2	computer_science	computer_science_in_distribution_22
+Q:which statement matches thread and means|O:confidentiality;O:web communication;O:vertices and edges;O:execution stream;A	3	computer_science	computer_science_in_distribution_22
+Q:what answer fits thread and means|O:execution stream;O:base case;O:at runtime;O:circular wait;A	0	computer_science	computer_science_in_distribution_22
+Q:which answer is associated with thread and means|O:base case;O:execution stream;O:vertices and edges;O:confidentiality;A	1	computer_science	computer_science_in_distribution_22
+Q:select the answer for kernel and is|O:execution stream;O:files and directories;O:os core;O:fast storage;A	2	computer_science	computer_science_in_distribution_23
+Q:which statement matches kernel and is|O:disk extension;O:fast storage;O:execution stream;O:os core;A	3	computer_science	computer_science_in_distribution_23
+Q:what answer fits kernel and is|O:os core;O:disk extension;O:files and directories;O:deception;A	0	computer_science	computer_science_in_distribution_23
+Q:which answer is associated with kernel and is|O:execution stream;O:os core;O:fast storage;O:divide and conquer;A	1	computer_science	computer_science_in_distribution_23
+Q:which concept applies to kernel and is|O:files and directories;O:fast storage;O:os core;O:deception;A	2	computer_science	computer_science_in_distribution_23
+Q:which statement matches virtual memory and uses|O:first in first out;O:indexed storage;O:identity;O:disk extension;A	3	computer_science	computer_science_in_distribution_24
+Q:what answer fits virtual memory and uses|O:disk extension;O:identity;O:growth rate;O:indexed storage;A	0	computer_science	computer_science_in_distribution_24
+Q:which answer is associated with virtual memory and uses|O:first in first out;O:disk extension;O:growth rate;O:hierarchy;A	1	computer_science	computer_science_in_distribution_24
+Q:which concept applies to virtual memory and uses|O:first in first out;O:identity;O:disk extension;O:indexed storage;A	2	computer_science	computer_science_in_distribution_24
+Q:identify the concept associated with virtual memory and uses|O:hierarchy;O:first in first out;O:growth rate;O:disk extension;A	3	computer_science	computer_science_in_distribution_24
+Q:what answer fits file system and organizes|O:files and directories;O:partitioning;O:program execution;O:os core;A	0	computer_science	computer_science_in_distribution_25
+Q:which answer is associated with file system and organizes|O:program execution;O:files and directories;O:priority access;O:deception;A	1	computer_science	computer_science_in_distribution_25
+Q:which concept applies to file system and organizes|O:deception;O:queue;O:files and directories;O:os core;A	2	computer_science	computer_science_in_distribution_25
+Q:identify the concept associated with file system and organizes|O:priority access;O:os core;O:deception;O:files and directories;A	3	computer_science	computer_science_in_distribution_25
+Q:for file system which answer fits organizes|O:files and directories;O:program execution;O:os core;O:deception;A	0	computer_science	computer_science_in_distribution_25
+Q:which answer is associated with tcp and provides|O:relational data;O:reliable delivery;O:software interface;O:sorted data;A	1	computer_science	computer_science_in_distribution_26
+Q:which concept applies to tcp and provides|O:repetition;O:reusable code;O:reliable delivery;O:sorted data;A	2	computer_science	computer_science_in_distribution_26
+Q:identify the concept associated with tcp and provides|O:software interface;O:repetition;O:sorted data;O:reliable delivery;A	3	computer_science	computer_science_in_distribution_26
+Q:for tcp which answer fits provides|O:reliable delivery;O:sorted data;O:software interface;O:relational data;A	0	computer_science	computer_science_in_distribution_26
+Q:a question about tcp and provides|O:repetition;O:reliable delivery;O:relational data;O:reusable code;A	1	computer_science	computer_science_in_distribution_26
+Q:which concept applies to udp and provides|O:stack;O:stored value;O:low overhead delivery;O:structured records;A	2	computer_science	computer_science_in_distribution_27
+Q:identify the concept associated with udp and provides|O:synchronization;O:structured records;O:reliable delivery;O:low overhead delivery;A	3	computer_science	computer_science_in_distribution_27
+Q:for udp which answer fits provides|O:low overhead delivery;O:synchronization;O:structured records;O:stack;A	0	computer_science	computer_science_in_distribution_27
+Q:a question about udp and provides|O:structured records;O:low overhead delivery;O:stored value;O:table relationship;A	1	computer_science	computer_science_in_distribution_27
+Q:select the answer for udp and provides|O:stack;O:stored value;O:low overhead delivery;O:synchronization;A	2	computer_science	computer_science_in_distribution_27
+Q:identify the concept associated with ip and provides|O:version control;O:unique row;O:web communication;O:network addressing;A	3	computer_science	computer_science_in_distribution_28
+Q:for ip which answer fits provides|O:network addressing;O:two children;O:true or false;O:unique row;A	0	computer_science	computer_science_in_distribution_28
+Q:a question about ip and provides|O:version control;O:network addressing;O:true or false;O:web communication;A	1	computer_science	computer_science_in_distribution_28
+Q:select the answer for ip and provides|O:version control;O:unique row;O:network addressing;O:two children;A	2	computer_science	computer_science_in_distribution_28
+Q:which statement matches ip and provides|O:true or false;O:vertices and edges;O:version control;O:network addressing;A	3	computer_science	computer_science_in_distribution_28
+Q:for dns which answer fits maps|O:names to addresses;O:confidentiality;O:two children;O:circular wait;A	0	computer_science	computer_science_in_distribution_29
+Q:a question about dns and maps|O:circular wait;O:names to addresses;O:deception;O:two children;A	1	computer_science	computer_science_in_distribution_29
+Q:select the answer for dns and maps|O:deception;O:base case;O:names to addresses;O:circular wait;A	2	computer_science	computer_science_in_distribution_29
+Q:which statement matches dns and maps|O:deception;O:at runtime;O:confidentiality;O:names to addresses;A	3	computer_science	computer_science_in_distribution_29
+Q:what answer fits dns and maps|O:names to addresses;O:confidentiality;O:at runtime;O:deception;A	0	computer_science	computer_science_in_distribution_29
+Q:a question about http and supports|O:fixed digest;O:web communication;O:files and directories;O:execution stream;A	1	computer_science	computer_science_in_distribution_30
+Q:select the answer for http and supports|O:divide and conquer;O:first in first out;O:web communication;O:files and directories;A	2	computer_science	computer_science_in_distribution_30
+Q:which statement matches http and supports|O:first in first out;O:fixed digest;O:execution stream;O:web communication;A	3	computer_science	computer_science_in_distribution_30
+Q:what answer fits http and supports|O:web communication;O:divide and conquer;O:files and directories;O:execution stream;A	0	computer_science	computer_science_in_distribution_30
+Q:which answer is associated with http and supports|O:files and directories;O:web communication;O:execution stream;O:divide and conquer;A	1	computer_science	computer_science_in_distribution_30
+Q:select the answer for encryption and provides|O:keys to values;O:hierarchy;O:confidentiality;O:indexed storage;A	2	computer_science	computer_science_in_distribution_31
+Q:which statement matches encryption and provides|O:identity;O:keys to values;O:hierarchy;O:confidentiality;A	3	computer_science	computer_science_in_distribution_31
+Q:what answer fits encryption and provides|O:confidentiality;O:last in first out;O:identity;O:keys to values;A	0	computer_science	computer_science_in_distribution_31
+Q:which answer is associated with encryption and provides|O:indexed storage;O:confidentiality;O:keys to values;O:last in first out;A	1	computer_science	computer_science_in_distribution_31
+Q:which concept applies to encryption and provides|O:indexed storage;O:identity;O:confidentiality;O:keys to values;A	2	computer_science	computer_science_in_distribution_31
+Q:which statement matches hashing and produces|O:object blueprint;O:names to addresses;O:node pointers;O:fixed digest;A	3	computer_science	computer_science_in_distribution_32
+Q:what answer fits hashing and produces|O:fixed digest;O:low overhead delivery;O:object blueprint;O:node pointers;A	0	computer_science	computer_science_in_distribution_32
+Q:which answer is associated with hashing and produces|O:network addressing;O:fixed digest;O:node pointers;O:names to addresses;A	1	computer_science	computer_science_in_distribution_32
+Q:which concept applies to hashing and produces|O:network addressing;O:node pointers;O:fixed digest;O:network traffic;A	2	computer_science	computer_science_in_distribution_32
+Q:identify the concept associated with hashing and produces|O:object blueprint;O:node pointers;O:low overhead delivery;O:fixed digest;A	3	computer_science	computer_science_in_distribution_32
+Q:what answer fits authentication and checks|O:identity;O:reusable code;O:software interface;O:repetition;A	0	computer_science	computer_science_in_distribution_33
+Q:which answer is associated with authentication and checks|O:stack;O:identity;O:software interface;O:sorted data;A	1	computer_science	computer_science_in_distribution_33
+Q:which concept applies to authentication and checks|O:sorted data;O:software interface;O:identity;O:stack;A	2	computer_science	computer_science_in_distribution_33
+Q:identify the concept associated with authentication and checks|O:software interface;O:repetition;O:sorted data;O:identity;A	3	computer_science	computer_science_in_distribution_33
+Q:for authentication which answer fits checks|O:identity;O:software interface;O:stack;O:source code;A	0	computer_science	computer_science_in_distribution_33
+Q:which answer is associated with authorization and checks|O:table relationship;O:permission;O:structured records;O:two children;A	1	computer_science	computer_science_in_distribution_34
+Q:which concept applies to authorization and checks|O:two children;O:table relationship;O:permission;O:structured records;A	2	computer_science	computer_science_in_distribution_34
+Q:identify the concept associated with authorization and checks|O:stored value;O:table relationship;O:two children;O:permission;A	3	computer_science	computer_science_in_distribution_34
+Q:for authorization which answer fits checks|O:permission;O:table relationship;O:two children;O:stored value;A	0	computer_science	computer_science_in_distribution_34
+Q:a question about authorization and checks|O:true or false;O:permission;O:two children;O:table relationship;A	1	computer_science	computer_science_in_distribution_34
+Q:which concept translates source code for a compiler|O:unique row;O:at runtime;O:source code;O:base case;A	2	computer_science	computer_science_in_distribution_35
+Q:identify the concept that translates source code for a compiler|O:base case;O:at runtime;O:vertices and edges;O:source code;A	3	computer_science	computer_science_in_distribution_35
+Q:for a compiler which answer fits translating source code|O:source code;O:vertices and edges;O:version control;O:at runtime;A	0	computer_science	computer_science_in_distribution_35
+Q:a compiler question about translating source code|O:web communication;O:source code;O:base case;O:at runtime;A	1	computer_science	computer_science_in_distribution_35
+Q:select the answer for a compiler translating source code|O:at runtime;O:base case;O:source code;O:web communication;A	2	computer_science	computer_science_in_distribution_35
+Q:identify the concept associated with interpreter and executes|O:disk extension;O:confidentiality;O:circular wait;O:at runtime;A	3	computer_science	computer_science_in_distribution_36
+Q:for interpreter which answer fits executes|O:at runtime;O:disk extension;O:circular wait;O:deception;A	0	computer_science	computer_science_in_distribution_36
+Q:a question about interpreter and executes|O:low overhead delivery;O:at runtime;O:deception;O:confidentiality;A	1	computer_science	computer_science_in_distribution_36
+Q:select the answer for interpreter and executes|O:circular wait;O:deception;O:at runtime;O:low overhead delivery;A	2	computer_science	computer_science_in_distribution_36
+Q:which statement matches interpreter and executes|O:low overhead delivery;O:disk extension;O:deception;O:at runtime;A	3	computer_science	computer_science_in_distribution_36
+Q:for variable which answer fits names|O:stored value;O:hierarchy;O:files and directories;O:growth rate;A	0	computer_science	computer_science_in_distribution_37
+Q:a question about variable and names|O:growth rate;O:stored value;O:hierarchy;O:files and directories;A	1	computer_science	computer_science_in_distribution_37
+Q:select the answer for variable and names|O:files and directories;O:growth rate;O:stored value;O:first in first out;A	2	computer_science	computer_science_in_distribution_37
+Q:which statement matches variable and names|O:hierarchy;O:files and directories;O:growth rate;O:stored value;A	3	computer_science	computer_science_in_distribution_37
+Q:what answer fits variable and names|O:stored value;O:growth rate;O:fixed digest;O:fast storage;A	0	computer_science	computer_science_in_distribution_37
+Q:a question about function and packages|O:last in first out;O:reusable code;O:keys to values;O:identity;A	1	computer_science	computer_science_in_distribution_38
+Q:select the answer for function and packages|O:indexed storage;O:identity;O:reusable code;O:low overhead delivery;A	2	computer_science	computer_science_in_distribution_38
+Q:which statement matches function and packages|O:identity;O:names to addresses;O:low overhead delivery;O:reusable code;A	3	computer_science	computer_science_in_distribution_38
+Q:what answer fits function and packages|O:reusable code;O:names to addresses;O:indexed storage;O:keys to values;A	0	computer_science	computer_science_in_distribution_38
+Q:which answer is associated with function and packages|O:low overhead delivery;O:reusable code;O:names to addresses;O:identity;A	1	computer_science	computer_science_in_distribution_38
+Q:select the answer for class and defines|O:permission;O:os core;O:object blueprint;O:network traffic;A	2	computer_science	computer_science_in_distribution_39
+Q:which statement matches class and defines|O:network traffic;O:network addressing;O:partitioning;O:object blueprint;A	3	computer_science	computer_science_in_distribution_39
+Q:what answer fits class and defines|O:object blueprint;O:os core;O:permission;O:network addressing;A	0	computer_science	computer_science_in_distribution_39
+Q:which answer is associated with class and defines|O:network addressing;O:object blueprint;O:permission;O:node pointers;A	1	computer_science	computer_science_in_distribution_39
+Q:which concept applies to class and defines|O:network addressing;O:node pointers;O:object blueprint;O:os core;A	2	computer_science	computer_science_in_distribution_39
+Q:which statement matches boolean and represents|O:queue;O:object blueprint;O:priority access;O:true or false;A	3	computer_science	computer_science_in_distribution_40
+Q:what answer fits boolean and represents|O:true or false;O:object blueprint;O:reliable delivery;O:program execution;A	0	computer_science	computer_science_in_distribution_40
+Q:which answer is associated with boolean and represents|O:object blueprint;O:true or false;O:priority access;O:program execution;A	1	computer_science	computer_science_in_distribution_40
+Q:which concept applies to boolean and represents|O:reliable delivery;O:relational data;O:true or false;O:queue;A	2	computer_science	computer_science_in_distribution_40
+Q:identify the concept associated with boolean and represents|O:reliable delivery;O:priority access;O:relational data;O:true or false;A	3	computer_science	computer_science_in_distribution_40
+Q:what answer fits loop and performs|O:repetition;O:true or false;O:table relationship;O:synchronization;A	0	computer_science	computer_science_in_distribution_41
+Q:which answer is associated with loop and performs|O:two children;O:repetition;O:unique row;O:table relationship;A	1	computer_science	computer_science_in_distribution_41
+Q:which concept applies to loop and performs|O:true or false;O:synchronization;O:repetition;O:version control;A	2	computer_science	computer_science_in_distribution_41
+Q:identify the concept associated with loop and performs|O:true or false;O:version control;O:unique row;O:repetition;A	3	computer_science	computer_science_in_distribution_41
+Q:for loop which answer fits performs|O:repetition;O:table relationship;O:true or false;O:synchronization;A	0	computer_science	computer_science_in_distribution_41
+Q:which answer is associated with api and provides|O:disk extension;O:software interface;O:base case;O:at runtime;A	1	computer_science	computer_science_in_distribution_42
+Q:which concept applies to api and provides|O:disk extension;O:confidentiality;O:software interface;O:base case;A	2	computer_science	computer_science_in_distribution_42
+Q:identify the concept associated with api and provides|O:at runtime;O:disk extension;O:base case;O:software interface;A	3	computer_science	computer_science_in_distribution_42
+Q:for api which answer fits provides|O:software interface;O:circular wait;O:disk extension;O:at runtime;A	0	computer_science	computer_science_in_distribution_42
+Q:a question about api and provides|O:at runtime;O:software interface;O:base case;O:vertices and edges;A	1	computer_science	computer_science_in_distribution_42
+Q:which concept applies to git and provides|O:execution stream;O:files and directories;O:version control;O:disk extension;A	2	computer_science	computer_science_in_distribution_43
+Q:identify the concept associated with git and provides|O:files and directories;O:disk extension;O:fast storage;O:version control;A	3	computer_science	computer_science_in_distribution_43
+Q:for git which answer fits provides|O:version control;O:fast storage;O:deception;O:divide and conquer;A	0	computer_science	computer_science_in_distribution_43
+Q:a question about git and provides|O:deception;O:version control;O:files and directories;O:divide and conquer;A	1	computer_science	computer_science_in_distribution_43
+Q:select the answer for git and provides|O:fast storage;O:execution stream;O:version control;O:files and directories;A	2	computer_science	computer_science_in_distribution_43
+Q:identify the concept associated with phishing and uses|O:hierarchy;O:indexed storage;O:fixed digest;O:deception;A	3	computer_science	computer_science_in_distribution_44
+Q:for phishing which answer fits uses|O:deception;O:fixed digest;O:identity;O:growth rate;A	0	computer_science	computer_science_in_distribution_44
+Q:a question about phishing and uses|O:indexed storage;O:deception;O:identity;O:growth rate;A	1	computer_science	computer_science_in_distribution_44
+Q:select the answer for phishing and uses|O:first in first out;O:hierarchy;O:deception;O:fixed digest;A	2	computer_science	computer_science_in_distribution_44
+Q:which statement matches phishing and uses|O:first in first out;O:hierarchy;O:indexed storage;O:deception;A	3	computer_science	computer_science_in_distribution_44
+Q:for firewall which answer fits filters|O:network traffic;O:node pointers;O:names to addresses;O:keys to values;A	0	computer_science	computer_science_in_distribution_45
+Q:a question about firewall and filters|O:last in first out;O:network traffic;O:object blueprint;O:names to addresses;A	1	computer_science	computer_science_in_distribution_45
+Q:select the answer for firewall and filters|O:node pointers;O:names to addresses;O:network traffic;O:object blueprint;A	2	computer_science	computer_science_in_distribution_45
+Q:which statement matches firewall and filters|O:object blueprint;O:low overhead delivery;O:names to addresses;O:network traffic;A	3	computer_science	computer_science_in_distribution_45
+Q:what answer fits firewall and filters|O:network traffic;O:last in first out;O:node pointers;O:object blueprint;A	0	computer_science	computer_science_in_distribution_45
+Q:a question about sql and queries|O:permission;O:relational data;O:network traffic;O:object blueprint;A	1	computer_science	computer_science_in_distribution_46
+Q:select the answer for sql and queries|O:os core;O:permission;O:relational data;O:partitioning;A	2	computer_science	computer_science_in_distribution_46
+Q:which statement matches sql and queries|O:partitioning;O:network traffic;O:os core;O:relational data;A	3	computer_science	computer_science_in_distribution_46
+Q:what answer fits sql and queries|O:relational data;O:network traffic;O:priority access;O:object blueprint;A	0	computer_science	computer_science_in_distribution_46
+Q:which answer is associated with sql and queries|O:os core;O:relational data;O:permission;O:priority access;A	1	computer_science	computer_science_in_distribution_46
+Q:select the answer for deadlock and requires|O:reusable code;O:relational data;O:circular wait;O:reliable delivery;A	2	computer_science	computer_science_in_distribution_47
+Q:which statement matches deadlock and requires|O:repetition;O:relational data;O:reusable code;O:circular wait;A	3	computer_science	computer_science_in_distribution_47
+Q:what answer fits deadlock and requires|O:circular wait;O:program execution;O:reusable code;O:queue;A	0	computer_science	computer_science_in_distribution_47
+Q:which answer is associated with deadlock and requires|O:reliable delivery;O:circular wait;O:repetition;O:queue;A	1	computer_science	computer_science_in_distribution_47
+Q:which concept applies to deadlock and requires|O:repetition;O:relational data;O:circular wait;O:reliable delivery;A	2	computer_science	computer_science_in_distribution_47
+Q:which statement matches semaphore and supports|O:structured records;O:software interface;O:sorted data;O:synchronization;A	3	computer_science	computer_science_in_distribution_48
+Q:what answer fits semaphore and supports|O:synchronization;O:structured records;O:stack;O:source code;A	0	computer_science	computer_science_in_distribution_48
+Q:which answer is associated with semaphore and supports|O:structured records;O:synchronization;O:stack;O:software interface;A	1	computer_science	computer_science_in_distribution_48
+Q:which concept applies to semaphore and supports|O:sorted data;O:software interface;O:synchronization;O:stored value;A	2	computer_science	computer_science_in_distribution_48
+Q:identify the concept associated with semaphore and supports|O:source code;O:software interface;O:stack;O:synchronization;A	3	computer_science	computer_science_in_distribution_48
