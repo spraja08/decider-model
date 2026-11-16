@@ -55,7 +55,7 @@
 
   <!-- title block -->
   <g transform="translate(70,0)">
-    <text x="0" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="78" font-weight="700" fill="#f8fafc">MiniJev</text>
+    <text x="0" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="78" font-weight="700" fill="#f8fafc">BitsyJev</text>
     <rect x="4" y="150" width="150" height="6" rx="3" fill="url(#accent)"/>
     <text x="0" y="196" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" fill="#cbd5e1">a small character-level decider</text>
     <text x="2" y="238" font-family="'Courier New',monospace" font-size="17" fill="#7dd3fc">structured attention mask  ·  pointer head</text>
